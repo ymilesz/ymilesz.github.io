@@ -1,6 +1,7 @@
 # Y. Miles Zhang
 ## Postdoctoral Research Associate, Entomology & Nematology Department, University of Florida
-yuanmeng.zhang AT ufl DOT edu
+yuanmeng.zhang@ufl.edu
+Twitter: [@ymilesz](https://twitter.com/ymilesz)
 
 I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain little-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of parasitoid wasps. Only with such understanding can we predict, for example, the consequences of climate change on parasitoid abundance and distribution and its effect on the ecosystem.
 
