@@ -1,4 +1,8 @@
-PUBLICATIONS
+---
+layout: default_2
+title: Publications
+permalink: publications.html
+---
 Note: My name is bolded, mentees are italicized and undergraduates additionally have an asterisk.
 
 IN REVIEW (1)
