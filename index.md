@@ -5,13 +5,17 @@ Email: yuanmeng.zhang@ufl.edu<br>
 [Twitter](https://twitter.com/ymilesz)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
 [GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
+
 ___
+
 I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain little-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of specialized herbivores and their associated parasitoid communities. Only with such understanding can we predict, for example, the consequences of climate change on the abundance and distribution of these systems and its effect on the ecosystem.
 ![](Photos/Disholcaspis.jpg) <br>
 _Disholcaspis quercusomnivora_ emerging from its gall
 ![](Photos/Torymus.jpg) <br>
 _Torymus_ parasitoid reared from a _D. quercusomnivora_ gall
+
 ___
+
 ## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
 2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
@@ -20,6 +24,8 @@ Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-
 Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
 
 2004 – 2009	B.Sc. Zoology, University of Guelph
+
+___
 
 ## PROFESSIONAL EXPERIENCES
 
