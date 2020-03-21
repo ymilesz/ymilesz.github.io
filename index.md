@@ -1,5 +1,6 @@
 ![](Photos/Miles_Photo.jpg)
-## Postdoctoral Research Associate, Entomology & Nematology Department, University of Florida
+# Y. Miles Zhang, PhD
+## Postdoctoral Research Associate, University of Florida
 yuanmeng.zhang@ufl.edu <br>
 [Twitter](https://twitter.com/ymilesz)  
 [Research Gate](https://www.researchgate.net/profile/Yuanmeng_Zhang)  
