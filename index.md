@@ -14,11 +14,9 @@ I am an evolutionary biologist specializing in the diversity and evolution of pa
 Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/) <br>
 2009 – 2012	M.Sc. Biology, Laurentian University <br>
 Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
-
 2004 – 2009	B.Sc. Zoology, University of Guelph
 
 ## PROFESSIONAL EXPERIENCES
-
 2018 – Present	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2018	Adjunct Lecturer, University of Central Florida <br>
@@ -27,7 +25,6 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
 ## RESEARCH
-
 **Hymenoptera Phylogenomics using ultraconserved elements (UCEs)**
 My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Crazy Ants (Formicidae: _Nylanderia_), Rose Gall Wasps (Cynipidae: _Diplolepis_), and Oak Gall Parasitoids (Eurytomidae: _Sycophila_). Traditional Sanger-based phylogenetics work have been unsatisfactory in resolving relationships between cryptic species. Ultraconserved elements have been shown to be very effective at delimiting fast-evolving, cryptic species, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
 ![](Photos/Nylanderia.jpg) <br>
@@ -46,7 +43,6 @@ Cynipidae: _Diplolepis polita_
 
 
 ## PUBLICATIONS 
-
 **IN REVIEW (1)**
 1.	Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). In Review at Annals of the Entomological Society of America. Preprint: <https://doi.org/10.1101/2020.01.17.909648>
 
