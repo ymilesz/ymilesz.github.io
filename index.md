@@ -1,10 +1,10 @@
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
 ## Postdoctoral Research Associate, University of Florida
-yuanmeng.zhang@ufl.edu <br>
-[Twitter](https://twitter.com/ymilesz)  
-[Research Gate](https://www.researchgate.net/profile/Yuanmeng_Zhang)  
-[Google Scholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)
+Email: yuanmeng.zhang@ufl.edu<br>
+[Twitter](https://twitter.com/ymilesz)<br>
+[ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
+[GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
 
 ___
 
