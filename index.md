@@ -5,21 +5,17 @@ Email: yuanmeng.zhang@ufl.edu<br>
 [Twitter](https://twitter.com/ymilesz)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
 [GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
-
 ___
-
 I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain little-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of specialized herbivores and their associated parasitoid communities. Only with such understanding can we predict, for example, the consequences of climate change on the abundance and distribution of these systems and its effect on the ecosystem.
 ![](Photos/Disholcaspis.jpg) <br>
 _Disholcaspis quercusomnivora_ emerging from its gall
 ![](Photos/Torymus.jpg) <br>
 _Torymus_ parasitoid reared from a _D. quercusomnivora_ gall
 ___
-
 ## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
 2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
-Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/)
-
+Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/) <br>
 2009 – 2012	M.Sc. Biology, Laurentian University <br>
 Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
 
@@ -29,7 +25,6 @@ Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
 
 2018 – Present	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
-
 2018	Adjunct Lecturer, University of Central Florida <br>
 2016 – 2018	Instructor of Record, University of Central Florida <br>	
 2014 – 2015	Graduate Teaching Assistant, University of Manitoba <br>
@@ -72,5 +67,3 @@ ___
 **SOFTWARE (1)**
 
 1.	Sharanowski, B.J., Dal Molin, A., Bass, A., Cattani, D., Gavloski, J., Gulden, R., Irwin*, L. Joyce, J., Leeson, J., McKay, K., Meers, S., Morales-Naranjo, S., Olfert, O., Otani, J., Peixoto, L., Philip, H., Rios, A., Svendsen, E., Turkington, K., Turley, N., Weiss, R., **Zhang, Y.M.** (2018). Mobile-IPM: A Pest and Crop management tool for Canadian field crops. <www.mobile-ipm.com> 
-
-
