@@ -6,7 +6,7 @@ Email: yuanmeng.zhang@ufl.edu<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
 [GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
 
-I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain little-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of specialized herbivores and their associated parasitoid communities. Only with such understanding can we predict, for example, the consequences of climate change on the abundance and distribution of these systems and its effect on the ecosystem.
+I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain poorly-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of specialized herbivores and their associated parasitoid communities. Only with such understanding can we predict, for example, the consequences of climate change on the abundance and distribution of these systems and its effect on the ecosystem.
 
 ## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
@@ -25,26 +25,25 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
 ## RESEARCH
-**Hymenoptera Phylogenomics using ultraconserved elements (UCEs)**
-My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Crazy Ants (Formicidae: _Nylanderia_), Rose Gall Wasps (Cynipidae: _Diplolepis_), and Oak Gall Parasitoids (Eurytomidae: _Sycophila_). Traditional Sanger-based phylogenetics work have been unsatisfactory in resolving relationships between cryptic species. Ultraconserved elements have been shown to be very effective at delimiting fast-evolving, cryptic species, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
+**Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)**
+My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Crazy Ants (Formicidae: _Nylanderia_), Rose Gall Wasps (Cynipidae: _Diplolepis_), Oak Gall Parasitoids (Eurytomidae: _Sycophila_), and designing probe sets for nematodes (Order Rhabditida). Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
 ![](Photos/Nylanderia.jpg) <br>
 Formicidae: _Nylanderia fulva_
 
 **The Evolution of _Peristenus_ (Hymenoptera: Braconidae): Taxonomy, Phylogenetics and Ecological Speciation**
-The focus of my PhD research was to investigate speciation patterns of euphorine braconid wasps at the genus, species, and population level, with a focus on the genus _Peristenus_. _Peristenus_ are parasitoids of plant bugs in the family Miridae, which also includes many agricultural pests such as Lygus bugs. As such, _Peristenus_ are of economic importance as some European species such as Peristenus digoneutis have been introduced to North America as biocontrol agents. However, the native North American fauna remained poorly known. 
-I built a multilocus phylogeny of the tribe Euphorini, which included _Peristenus_, _Leiophron_ (4 subgenera) and the monotypic _Mama_. Using around 80 taxa collected from worldwide and three genes, I updated the generic status within this tribe, and provided new morphological characters to distinguish the remaining two genera _Leiophron_ and _Peristenus_. Using a combination of multiple genes, multivariate morphometrics, and ecological data, I revised the North American _Peristenus pallipes_ complex, reducing from 9 species down to 3 species. Finally, I used ddRADSeq to determine the potential reproductive barriers behind the _Lygus-Peristenus_ system. As these parasitoid species are found in sympatry, a potential cause of this ecological speciation pattern could be explained by temporal seperation.<br>
+The focus of my PhD research was to investigate speciation patterns of  euphorine braconid wasps at the genus, species, and population level. _Peristenus_ are parasitoids agricultural pests such as Lygus bugs. I built a multilocus phylogeny of the tribe Euphorini and revised generic concepts (Zhang et al 2018a); revised the North American _Peristenus pallipes_ complex using a combination of molecular, morphometrics, and ecological data; and used ddRADSeq to determine that temporal separation is likely a key driver behind the _Lygus-Peristenus_ system. <br>
 ![](Photos/Peristenus.jpg) <br>
 Braconidae: _Peristenus mellipes_
 
 **Phylogeny and Taxonomy of Gall Wasps (Hymenoptera: Cynipidae) and Associated Inquilines/Parasitoids**
-I am also interested in gall wasp and their associated inquiline and parasitoids, in particular Eurytomidae. For my masters degree I revised the Canadian species of eurytomids associated with rose gall wasps (Cynipidae: _Diplolepis_). I used _COI_ to delimit species and provided an updated key along with the description of a new species. I have also used _COI_ to rebuild the phylogeny of _Diplolepis_ and their inquiline _Periclistus_, which shows the both genera is in need of revision and gall morphology alone is not enough to identify these species.<br>
+I am also interested in gall wasp and their associated inquiline and parasitoids, in particular Eurytomidae. For my masters degree I revised the Canadian species of eurytomids associated with rose gall wasps (Cynipidae: _Diplolepis_). I used _COI_ to delimit species and provided an updated key along with the description of a new species. I have also used _COI_ to rebuild the phylogeny of _Diplolepis_ and their inquiline _Periclistus_, which shows the both genera are in need of revision and gall morphology alone is not enough to identify these species.<br>
 ![](Photos/Diplolepis.jpg) <br>
 Cynipidae: _Diplolepis polita_
 
 
 ## PUBLICATIONS 
-**IN REVIEW (1)**
-1.	Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). In Review at Annals of the Entomological Society of America. Preprint: <https://doi.org/10.1101/2020.01.17.909648>
+**IN PRESS (1)**
+1.	Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). In Press at Annals of the Entomological Society of America. Preprint: <https://doi.org/10.1101/2020.01.17.909648>
 
 **REFEREED JOURNALS (13)**
 
