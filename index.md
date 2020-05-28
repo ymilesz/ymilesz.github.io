@@ -1,33 +1,39 @@
-# Y. Miles Zhang
-## Postdoctoral Research Associate, Entomology & Nematology Department, University of Florida
-yuanmeng.zhang@ufl.edu
-Twitter: [@ymilesz](https://twitter.com/ymilesz)
+![](Photos/Miles_Photo.jpg)
+# Y. Miles Zhang, PhD
+## Postdoctoral Research Associate, University of Florida
+Email: yuanmeng.zhang@ufl.edu<br>
+[Twitter](https://twitter.com/ymilesz)<br>
+[ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
+[GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
 
-I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain little-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of parasitoid wasps. Only with such understanding can we predict, for example, the consequences of climate change on parasitoid abundance and distribution and its effect on the ecosystem.
+I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain poorly-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of specialized herbivores and their associated parasitoid communities. Only with such understanding can we predict, for example, the consequences of climate change on the abundance and distribution of these systems and its effect on the ecosystem.
 
 ## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
 2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
-Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/)
-
+Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/) <br>
 2009 – 2012	M.Sc. Biology, Laurentian University <br>
 Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
-
 2004 – 2009	B.Sc. Zoology, University of Guelph
 
 ## PROFESSIONAL EXPERIENCES
-
 2018 – Present	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
-
 2018	Adjunct Lecturer, University of Central Florida <br>
-2016 – 2018	Instructor of Record, University of Central Florida <br>	
+2016 – 2018	Instructor of Record, University of Central Florida <br>
 2014 – 2015	Graduate Teaching Assistant, University of Manitoba <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
-## PUBLICATIONS 
+## RESEARCH
+**Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)**
+My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Crazy Ants (Formicidae: _Nylanderia_), Rose Gall Wasps (Cynipidae: _Diplolepis_), Oak Gall Parasitoids (Eurytomidae: _Sycophila_), and designing probe sets for nematodes (Order Rhabditida). Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
+![](Photos/Nylanderia.jpg) <br>
+Formicidae: _Nylanderia fulva_
 
-Note: My name is bolded, mentees are italicized and undergraduates additionally have an asterisk.
+**The Evolution of _Peristenus_ (Hymenoptera: Braconidae): Taxonomy, Phylogenetics and Ecological Speciation**
+The focus of my PhD research was to investigate speciation patterns of  euphorine braconid wasps at the genus, species, and population level. _Peristenus_ are parasitoids agricultural pests such as Lygus bugs. I built a multilocus phylogeny of the tribe Euphorini and revised generic concepts (Zhang et al 2018a); revised the North American _Peristenus pallipes_ complex using a combination of molecular, morphometrics, and ecological data; and used ddRADSeq to determine that temporal separation is likely a key driver behind the _Lygus-Peristenus_ system. <br>
+![](Photos/Peristenus.jpg) <br>
+Braconidae: _Peristenus mellipes_
 
 **REFEREED JOURNALS (14)**
 
@@ -57,6 +63,4 @@ Note: My name is bolded, mentees are italicized and undergraduates additionally 
 
 **SOFTWARE (1)**
 
-1.	Sharanowski, B.J., Dal Molin, A., Bass, A., Cattani, D., Gavloski, J., Gulden, R., Irwin*, L. Joyce, J., Leeson, J., McKay, K., Meers, S., Morales-Naranjo, S., Olfert, O., Otani, J., Peixoto, L., Philip, H., Rios, A., Svendsen, E., Turkington, K., Turley, N., Weiss, R., **Zhang, Y.M.** (2018). Mobile-IPM: A Pest and Crop management tool for Canadian field crops. <www.mobile-ipm.com> 
-
-
+1.	Sharanowski, B.J., Dal Molin, A., Bass, A., Cattani, D., Gavloski, J., Gulden, R., Irwin*, L. Joyce, J., Leeson, J., McKay, K., Meers, S., Morales-Naranjo, S., Olfert, O., Otani, J., Peixoto, L., Philip, H., Rios, A., Svendsen, E., Turkington, K., Turley, N., Weiss, R., **Zhang, Y.M.** (2018). Mobile-IPM: A Pest and Crop management tool for Canadian field crops. <www.mobile-ipm.com>
