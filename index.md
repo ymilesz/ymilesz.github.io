@@ -20,7 +20,7 @@ Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
 2018 – Present	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2018	Adjunct Lecturer, University of Central Florida <br>
-2016 – 2018	Instructor of Record, University of Central Florida <br>	
+2016 – 2018	Instructor of Record, University of Central Florida <br>
 2014 – 2015	Graduate Teaching Assistant, University of Manitoba <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
@@ -47,7 +47,6 @@ I built a multilocus phylogeny of the tribe Euphorini and revised generic concep
 Braconidae: _Peristenus mellipes_
 
 ## PUBLICATIONS 
-
 **REFEREED JOURNALS (14)**
 
 14.	Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). Early View at Annals of the Entomological Society of America. <https://doi.org/10.1093/aesa/saaa009>
@@ -76,4 +75,4 @@ Braconidae: _Peristenus mellipes_
 
 **SOFTWARE (1)**
 
-1.	Sharanowski, B.J., Dal Molin, A., Bass, A., Cattani, D., Gavloski, J., Gulden, R., Irwin*, L. Joyce, J., Leeson, J., McKay, K., Meers, S., Morales-Naranjo, S., Olfert, O., Otani, J., Peixoto, L., Philip, H., Rios, A., Svendsen, E., Turkington, K., Turley, N., Weiss, R., **Zhang, Y.M.** (2018). Mobile-IPM: A Pest and Crop management tool for Canadian field crops. <www.mobile-ipm.com> 
+1.	Sharanowski, B.J., Dal Molin, A., Bass, A., Cattani, D., Gavloski, J., Gulden, R., Irwin*, L. Joyce, J., Leeson, J., McKay, K., Meers, S., Morales-Naranjo, S., Olfert, O., Otani, J., Peixoto, L., Philip, H., Rios, A., Svendsen, E., Turkington, K., Turley, N., Weiss, R., **Zhang, Y.M.** (2018). Mobile-IPM: A Pest and Crop management tool for Canadian field crops. <www.mobile-ipm.com>
