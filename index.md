@@ -1,7 +1,3 @@
----
-permalink: /index.md
----
-
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
 ## Postdoctoral Research Associate, University of Florida
