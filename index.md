@@ -32,8 +32,8 @@ I have also led a review paper on arthropod UCEs phylogenomics, which explains t
 ![](Photos/Nylanderia.jpg) <br>
 Formicidae: _Nylanderia fulva_
 
-**Taxonomy and Systematics of Gall Wasps and Associated Inquilines/Parasitoids**
-I am also interested in taxonomy of gall wasp and their associated inquiline and parasitoids, in particular Eurytomidae. 
+**Taxonomy and Systematics of Gall Wasps and Associated Natural Enemies**
+I am also interested in taxonomy of gall wasp and their associated natural enemies, in particular Eurytomidae. 
 For my masters degree I revised the Canadian species of eurytomids associated with rose gall wasps (Cynipidae: _Diplolepis_). I used _COI_ to delimit species and provided an updated key along with the description of a new species. 
 I have also used _COI_ to rebuild the phylogeny of _Diplolepis_ and their inquiline _Periclistus_, which shows the both genera are in need of revision and gall morphology alone is not enough to identify these species. 
 Currently I am revising oak gall wasp Belonocnema, and describing galls on _Smilax_ found in southern tip of Florida.<br>
