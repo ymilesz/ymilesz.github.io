@@ -17,7 +17,9 @@ Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
 2004 – 2009	B.Sc. Zoology, University of Guelph
 
 ## PROFESSIONAL EXPERIENCES
-2018 – Present	Postdoctoral Research Associate, University of Florida <br>
+2020 - Present ORISE Postdoctoral Research Scholar, USDA Systematic Entomology Laboratory <br>
+Advisor: Dr. [Michael Gates](https://www.ars.usda.gov/people-locations/person/?person-id=36205) <br>
+2018 – 2020	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2018	Adjunct Lecturer, University of Central Florida <br>
 2016 – 2018	Instructor of Record, University of Central Florida <br>
@@ -36,7 +38,8 @@ Formicidae: _Nylanderia fulva_
 I am also interested in taxonomy of gall wasp and their associated natural enemies, in particular Eurytomidae. 
 For my masters degree I revised the Canadian species of eurytomids associated with rose gall wasps (Cynipidae: _Diplolepis_). I used _COI_ to delimit species and provided an updated key along with the description of a new species. 
 I have also used _COI_ to rebuild the phylogeny of _Diplolepis_ and their inquiline _Periclistus_, which shows the both genera are in need of revision and gall morphology alone is not enough to identify these species. 
-Currently I am revising oak gall wasp Belonocnema, and describing galls on _Smilax_ found in southern tip of Florida.<br>
+A few other related collaboration projects I've worked on includes the insects associated with the crypt gall wasp _Bassettia pallida_, including describing the crypt keeper wasp _Euderus set_. 
+Currently I am revising oak gall wasp _Belonocnema_, and describing the gall community associated with _Smilax_ in southern Florida.<br>
 ![](Photos/Diplolepis.jpg) <br>
 Cynipidae: _Diplolepis polita_
 
@@ -47,6 +50,13 @@ I built a multilocus phylogeny of the tribe Euphorini and revised generic concep
 Braconidae: _Peristenus mellipes_
 
 ## PUBLICATIONS 
+Note: My name is bolded, mentees are underlined and undergraduates additionally have an asterisk.
+
+**IN REVIEW (2)**
+
+2.	Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, _Williams, J.L._, Pinkney IV, J.L., Clancy, K.L., Nielsen, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. In Review at Myrmecological News.
+1.	**Zhang, Y.M.**, Buffington, M.L., Looney, C., László, Z., Shorthouse, J.D., Ide, T., Lucky, A. (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of Diplolepis Geoffrey (Hymenoptera: Cynipidae). In Review at Molecular Phylogenetics & Evolution.
+
 **REFEREED JOURNALS (14)**
 
 14.	Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). Early View at Annals of the Entomological Society of America. <https://doi.org/10.1093/aesa/saaa009>
@@ -66,8 +76,8 @@ Braconidae: _Peristenus mellipes_
 
 **REFEREED BOOK CHAPTERS (2)**
 
-1.	Stigenberg, J., **Zhang, Y.M.** (In Press). New findings of the subfamily Euphorinae (Hymenoptera, Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. Invited book chapter for Insects of Mount Wilhelm, Papua New Guinea Vol II.
-2.	Sharanowski, B.J., **Zhang,Y.M.**, Wanigasekara, R.W.M.U.M. (2014). Annotated Checklist of Braconidae (Hymenoptera) in the Canadian Prairies Ecozone. In: Arthropods of Canadian Grasslands. Volume 4: Biodiversity and Systematics, Part 2. Edited by: D. J. Giberson and H. A. Cárcamo. Biological Survey of Canada. Chapter 10, pp 399-425. <https://doi.org/10.3752/9780968932179.ch10>
+2.	Stigenberg, J., **Zhang, Y.M.** (In Press). New findings of the subfamily Euphorinae (Hymenoptera, Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. Invited book chapter for Insects of Mount Wilhelm, Papua New Guinea Vol II.
+1.	Sharanowski, B.J., **Zhang,Y.M.**, Wanigasekara, R.W.M.U.M. (2014). Annotated Checklist of Braconidae (Hymenoptera) in the Canadian Prairies Ecozone. In: Arthropods of Canadian Grasslands. Volume 4: Biodiversity and Systematics, Part 2. Edited by: D. J. Giberson and H. A. Cárcamo. Biological Survey of Canada. Chapter 10, pp 399-425. <https://doi.org/10.3752/9780968932179.ch10>
 
 **NON-REFEREED PUBLICATION (1)**
 
