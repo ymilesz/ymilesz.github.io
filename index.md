@@ -1,7 +1,7 @@
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
-## Postdoc, University of Florida
-Email: yuanmeng.zhang AT ufl.edu<br>
+## Postdoc, USDA ARS SEL
+Email: yuanmeng.zhang AT gmail.com<br>
 [Twitter](https://twitter.com/ymilesz)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
 [GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
@@ -52,13 +52,11 @@ Braconidae: _Peristenus mellipes_
 ## PUBLICATIONS 
 Note: My name is bolded, mentees are underlined and undergraduates additionally have an asterisk.
 
-**IN REVIEW (2)**
 
-2.	Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, _Williams, J.L._, Pinkney IV, J.L., Clancy, K.L., Nielsen, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. In Review at Myrmecological News.
-1.	**Zhang, Y.M.**, Buffington, M.L., Looney, C., László, Z., Shorthouse, J.D., Ide, T., Lucky, A. (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of Diplolepis Geoffrey (Hymenoptera: Cynipidae). In Review at Molecular Phylogenetics & Evolution.
+**REFEREED JOURNALS (16)**
 
-**REFEREED JOURNALS (14)**
-
+16.	**Zhang, Y.M.**, Buffington, M.L., Looney, C., László, Z., Shorthouse, J.D., Ide, T., Lucky, A. (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of Diplolepis Geoffrey (Hymenoptera: Cynipidae). In Press at Molecular Phylogenetics & Evolution.
+15.	Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, _Williams, J.L._, _Pinkney* IV, J.L._, Clancy*, K.L._, _Nielsen*, A.N._, Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. In Press at Myrmecological News.
 14.	Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). Early View at Annals of the Entomological Society of America. <https://doi.org/10.1093/aesa/saaa009>
 13.	_Williams, J.L._, **Zhang, Y.M.**, Lloyd, M.W., LaPolla, J.S., Schultz, T.R., Lucky, A. (2020) Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). Early View at Systematic Entomology. <https://doi.org/10.1111/syen.12423>
 12.	**Zhang, Y.M.**, Vitone, T., Storer, C.G., Payton, A.C., Dunn, R.R., Hulcr, J., McDaniel, S.F., Lucky, A. (2019) From pavement to population genomics: characterizing a long-established non-native ant in North America through citizen science and ddRADseq. Frontiers in Ecology & Evolution. 7: 453. <https://doi.org/10.3389/fevo.2019.00453>
