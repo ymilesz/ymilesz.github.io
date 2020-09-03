@@ -1,7 +1,7 @@
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
 ## Postdoc, USDA ARS SEL
-Email: yuanmeng.zhang AT gmail.com<br>
+ Email: yuanmeng.zhang AT gmail.com<br>
 [Twitter](https://twitter.com/ymilesz)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
 [GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
@@ -27,14 +27,14 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
 ## RESEARCH
-**Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)**
+**Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)** <br>
 My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Ants, Rose Gall Wasps (Cynipidae: _Diplolepis_), Oak Gall Parasitoids (Eurytomidae: _Sycophila_), and designing probe sets for nematodes (Order Rhabditida). 
 Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. 
 I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
 ![](Photos/Nylanderia.jpg) <br>
 Formicidae: _Nylanderia fulva_
 
-**Taxonomy and Systematics of Gall Wasps and Associated Natural Enemies**
+**Taxonomy and Systematics of Gall Wasps and Associated Natural Enemies** <br>
 I am also interested in taxonomy of gall wasp and their associated natural enemies, in particular Eurytomidae. 
 For my masters degree I revised the Canadian species of eurytomids associated with rose gall wasps (Cynipidae: _Diplolepis_). I used _COI_ to delimit species and provided an updated key along with the description of a new species. 
 I have also used _COI_ to rebuild the phylogeny of _Diplolepis_ and their inquiline _Periclistus_, which shows the both genera are in need of revision and gall morphology alone is not enough to identify these species. 
@@ -43,20 +43,20 @@ Currently I am revising oak gall wasp _Belonocnema_, and describing the gall com
 ![](Photos/Diplolepis.jpg) <br>
 Cynipidae: _Diplolepis polita_
 
-**The Evolution of _Peristenus_ (Hymenoptera: Braconidae): Taxonomy, Phylogenetics and Ecological Speciation**
+**The Evolution of _Peristenus_ (Hymenoptera: Braconidae): Taxonomy, Phylogenetics and Ecological Speciation** <br>
 The focus of my PhD research was to investigate speciation patterns of  euphorine braconid wasps at the genus, species, and population level. _Peristenus_ are parasitoids agricultural pests such as Lygus bugs. 
 I built a multilocus phylogeny of the tribe Euphorini and revised generic concepts (Zhang et al 2018a); revised the North American _Peristenus pallipes_ complex using a combination of molecular, morphometrics, and ecological data; and used ddRADSeq to determine that temporal separation is likely a key driver behind the _Lygus-Peristenus_ system. <br>
 ![](Photos/Peristenus.jpg) <br>
 Braconidae: _Peristenus mellipes_
 
 ## PUBLICATIONS 
-Note: My name is bolded, mentees have one astrisk and undergraduates have two.
+Note: My name is bolded, graduate mentees have one astrisk and undergraduates mentees have two.
 
 
 **REFEREED JOURNALS (16)**
 
-16.	**Zhang, Y.M.**, Buffington, M.L., Looney, C., László, Z., Shorthouse, J.D., Ide, T., Lucky, A. (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of Diplolepis Geoffrey (Hymenoptera: Cynipidae). In Press at Molecular Phylogenetics & Evolution.
-15.	Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, Williams\*, J.L., Pinkney\*\*, J.L., Clancy\*\*, K.L., Nielsen\*\*, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. In Press at Myrmecological News.
+16.	**Zhang, Y.M.**, Buffington, M.L., Looney, C., László, Z., Shorthouse, J.D., Ide, T., Lucky, A. (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of Diplolepis Geoffrey (Hymenoptera: Cynipidae). In Press at Molecular Phylogenetics & Evolution. <https://doi.org/10.1016/j.ympev.2020.106949>
+15.	Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, Williams\*, J.L., Pinkney\*\*, J.L., Clancy\*\*, K.L., Nielsen\*\*, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. Myrmecological News, 30: 187-199. <https://doi.org/10.25849/myrmecol.news_030:187>
 14.	Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). Early View at Annals of the Entomological Society of America. <https://doi.org/10.1093/aesa/saaa009>
 13.	Williams\*, J.L., **Zhang, Y.M.**, Lloyd, M.W., LaPolla, J.S., Schultz, T.R., Lucky, A. (2020) Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). Early View at Systematic Entomology. <https://doi.org/10.1111/syen.12423>
 12.	**Zhang, Y.M.**, Vitone, T., Storer, C.G., Payton, A.C., Dunn, R.R., Hulcr, J., McDaniel, S.F., Lucky, A. (2019) From pavement to population genomics: characterizing a long-established non-native ant in North America through citizen science and ddRADseq. Frontiers in Ecology & Evolution. 7: 453. <https://doi.org/10.3389/fevo.2019.00453>
