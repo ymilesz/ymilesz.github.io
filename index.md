@@ -27,7 +27,8 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
 ## RESEARCH
-### Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)### <br>
+
+### Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)
 My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Ants, Rose Gall Wasps (Cynipidae: _Diplolepis_), Oak Gall Parasitoids (Eurytomidae: _Sycophila_), and designing probe sets for nematodes (Order Rhabditida). Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
 ![](Photos/Nylanderia.jpg) <br>
 Formicidae: _Nylanderia fulva_
@@ -47,8 +48,8 @@ Cynipidae: _Diplolepis polita_
 4. Egan, S.P., Weinersmith, K.L., Liu, S., Ridenbaugh, R.D., **Zhang, Y.M.**, Forbes, A.A. (2017). Description of a new species of _Euderus_ Haliday from the southeastern United States (Hymenoptera, Chalcidoidea, Eulophidae): the crypt-keeper wasp. ZooKeys, 645: 37–49. <https://doi.org/10.3897/zookeys.645.11117> **Featured in Science News, National Geographic, Popular Science, Eureka Alert, Daily Mail** <br>
 5. **Zhang, Y.M.**, Gates, M.W., Shorthouse, J.D. (2014). Testing species limits of Eurytomidae (Hymenoptera) associated with galls induced by _Diplolepis_ (Hymenoptera: Cynipidae) in Canada using an integrative approach. The Canadian Entomologist, 146: 321–334. <https://doi.org/10.4039/tce.2013.70> <br>
 
-### The Evolution of _Peristenus_ (Hymenoptera: Braconidae): Taxonomy, Phylogenetics and Ecological Speciation <br>
-The focus of my PhD research was to investigate speciation patterns of  euphorine braconid wasps at the genus, species, and population level. _Peristenus_ are parasitoids agricultural pests such as Lygus bugs. I built a multilocus phylogeny of the tribe Euphorini and revised generic concepts (Zhang et al 2018a); revised the North American _Peristenus pallipes_ complex using a combination of molecular, morphometrics, and ecological data; and used ddRADSeq to determine that temporal separation is likely a key driver behind the _Lygus-Peristenus_ system. During this time I also collaborated with others phylogenetics and taxonomy of other braconid groups. <br>
+### Taxonomy, Phylogenetics and Ecological Speciation of Braconid Wasps
+The focus of my PhD research was to investigate speciation patterns of  euphorine braconid wasps at the genus, species, and population level. _Peristenus_ are parasitoids agricultural pests such as Lygus bugs. I built a multilocus phylogeny of the tribe Euphorini and revised generic concepts (Zhang et al 2018a); revised the North American _Peristenus pallipes_ complex using a combination of molecular, morphometrics, and ecological data; and used ddRADSeq to determine that temporal separation is likely a key driver behind the _Lygus-Peristenus_ system. During this time I also collaborated with others braconid groups. <br>
 ![](Photos/Peristenus.jpg) <br>
 Braconidae: _Peristenus mellipes_
 
@@ -60,7 +61,7 @@ Braconidae: _Peristenus mellipes_
 6. **Zhang, Y.M.**, Sharanowski, B.J. (2014). New species of _Eudiospilus_ (Braconidae, Brachistinae) from Madagascar with a review of the genus and key to species. Zootaxa, 3838: 120-126. <https://doi.org/10.11646/zootaxa.3838.1.7> <br>
 7. Sharanowski, B.J., **Zhang,Y.M.**, Wanigasekara, R.W.M.U.M. (2014). Annotated Checklist of Braconidae (Hymenoptera) in the Canadian Prairies Ecozone. In: Arthropods of Canadian Grasslands. Volume 4: Biodiversity and Systematics, Part 2. Edited by: D. J. Giberson and H. A. Cárcamo. Biological Survey of Canada. Chapter 10, pp 399-425. <https://doi.org/10.3752/9780968932179.ch10> <br>
 
-### Other Publications <br>
+### Other Publications
 I've also dabbled in various topics such as demographic studies of ant biologists, population genomics of invasive ants, and range expansion of rare parasitoid wasps.
 1. Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, Williams, J.L., Pinkney, J.L., Clancy, K.L., Nielsen, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. Myrmecological News, 30: 187-199. <https://doi.org/10.25849/myrmecol.news_030:187> <br>
 2. **Zhang, Y.M.**, Vitone, T., Storer, C.G., Payton, A.C., Dunn, R.R., Hulcr, J., McDaniel, S.F., Lucky, A. (2019) From pavement to population genomics: characterizing a long-established non-native ant in North America through citizen science and ddRADseq. Frontiers in Ecology & Evolution. 7: 453. <https://doi.org/10.3389/fevo.2019.00453> <br>
