@@ -29,7 +29,7 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 ## RESEARCH
 
 ### Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)
-My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Ants, Rose Gall Wasps (Cynipidae: _Diplolepis_), Oak Gall Parasitoids (Eurytomidae: _Sycophila_), and designing probe sets for nematodes (Order Rhabditida). Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
+My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Ants, Gall Wasps, and their Parasitoids. Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
 ![](Photos/Nylanderia.jpg) <br>
 Formicidae: _Nylanderia fulva_
 
@@ -53,7 +53,7 @@ The focus of my PhD research was to investigate speciation patterns of  euphorin
 ![](Photos/Peristenus.jpg) <br>
 Braconidae: _Peristenus mellipes_
 
-1. Stigenberg, J., **Zhang, Y.M.** (In Press). New findings of the subfamily Euphorinae (Hymenoptera, Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. Invited book chapter for Insects of Mount Wilhelm, Papua New Guinea Vol II. <br>
+1. Stigenberg, J., **Zhang, Y.M.** (2020). New findings of the subfamily Euphorinae (Hymenoptera: Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. In: Insects of Mount Wilhelm, Papua New Guinea Volume II. Edited by: T. Robillard, F. Legendre, C. Villemant, and M. Leponce. French Museum of Natural History, pp 145–190. <br>
 2. **Zhang, Y.M.**, Bass, A.I.H., Fernández, D.C., Sharanowski, B.J. (2018). Habitat or Temporal Isolation: Unravelling herbivore-parasitoid speciation patterns using double digest RADseq. Ecology and Evolution, 8: 9803–9816. <https://doi.org/10.1002/ece3.4457> <br>
 3. **Zhang, Y.M.**, Stigenberg, J., Meyer, J., Sharanowski, B.J. (2018). Multilocus phylogeny of the parasitic wasps in the tribe Euphorini (Braconidae: Euphorinae) with revised generic classifications. PeerJ, 6: e4783. <https://doi.org/10.7717/peerj.4783> <br>
 4. **Zhang, Y.M.**, Ridenbaugh, R.D., Sharanowski, B.J. (2017). Integrative taxonomy improves understanding of native beneficial fauna: Revision of the Nearctic _Peristenus pallipes_ complex (Hymenoptera: Braconidae) and implications for release of exotic biocontrol agents. Systematic Entomology, 42: 596-608. <https://doi.org/10.1111/syen.12233> **Top 20 Most Downloaded Paper for Systematic Entomology in 2017/2018** <br>
