@@ -30,16 +30,14 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 
 ### Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)
 My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Ants, Gall Wasps, and their Parasitoids. Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
-![](Photos/Nylanderia.jpg) <br>
-
+![](Photos/UCE.jpg) <br>
 1. **Zhang, Y.M.**, Williams, J.L., Lucky, A. (2019) Understanding UCEs: A comprehensive primer on using Ultraconserved Elements for arthropod phylogenomics. Insect Systematics and Diversity, 3: 3. <https://doi.org/10.1093/isd/ixz016> <br>
 2. Williams, J.L., **Zhang, Y.M.**, Lloyd, M.W., LaPolla, J.S., Schultz, T.R., Lucky, A. (2020) Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). Systematic Entomology, 45: 730–744. <https://doi.org/10.1111/syen.12423> <br>
 3. **Zhang, Y.M.**, Buffington, M.L., Looney, C., László, Z., Shorthouse, J.D., Ide, T., Lucky, A. (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of _Diplolepis_ Geoffrey (Hymenoptera: Cynipidae). Molecular Phylogenetics & Evolution, 153: 106949. <https://doi.org/10.1016/j.ympev.2020.106949> <br> 
 
 ### Taxonomy and Systematics of Gall Wasps and Associated Natural Enemies
 I am also interested in taxonomy of gall wasp and their associated natural enemies, in particular Eurytomidae. For my masters degree I revised the Canadian species of eurytomids associated with rose gall wasps (Cynipidae: _Diplolepis_). I used _COI_ to delimit species and provided an updated key along with the description of a new species. I have also used _COI_ and to rebuild the phylogeny of _Diplolepis_ and their inquiline _Periclistus_, which shows the both genera are in need of revision and gall morphology alone is not enough to identify these species. A few other related collaboration projects I've worked on includes the insects associated with the crypt gall wasp _Bassettia pallida_, including describing the crypt keeper wasp _Euderus set_. Currently I am revising oak gall wasp _Belonocnema_, and describing the gall community associated with _Smilax_ in southern Florida.<br>
-![](Photos/Bassettia.jpg)<br>
-
+![](Photos/Gall.jpg)<br>
 1. **Zhang, Y.M.**, Gates, M.W., Shorthouse, J.D. (2014). Testing species limits of Eurytomidae (Hymenoptera) associated with galls induced by _Diplolepis_ (Hymenoptera: Cynipidae) in Canada using an integrative approach. The Canadian Entomologist, 146: 321–334. <https://doi.org/10.4039/tce.2013.70> <br>
 2. Egan, S.P., Weinersmith, K.L., Liu, S., Ridenbaugh, R.D., **Zhang, Y.M.**, Forbes, A.A. (2017). Description of a new species of _Euderus_ Haliday from the southeastern United States (Hymenoptera, Chalcidoidea, Eulophidae): the crypt-keeper wasp. ZooKeys, 645: 37–49. <https://doi.org/10.3897/zookeys.645.11117> **Featured in Science News, National Geographic, Popular Science, Eureka Alert, Daily Mail** <br>
 3. **Zhang, Y.M.**, Gates, M.W., Shorthouse, J.D. (2017). Revision of Canadian Eurytomidae (Hymenoptera, Chalcidoidea) associated with galls induced by cynipid wasps of the genus _Diplolepis_ Geoffroy (Hymenoptera, Cynipidae) and description of a new species. Journal of Hymenoptera Research, 61: 1–29. <https://doi.org/10.3897/jhr.61.13466> <br>
