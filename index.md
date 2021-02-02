@@ -30,9 +30,7 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 
 ### Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)
 My current postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Ants, Gall Wasps, and their Parasitoids. Ultraconserved elements have been shown to be very effective at resolving phylogenetic relationships at both deep and shallow evolutionary scale, and can be used on older museum specimens that have degraded DNA. I have also led a review paper on arthropod UCEs phylogenomics, which explains the technique and offers best-practice tips for downstream analyses.<br>
-![](Photos/Nylanderia1.jpg) 
-![](Photos/Nylanderia2.jpg)
-![](Photos/UCE.png) <br>
+![](Photos/Nylanderia.jpg) <br>
 
 1. **Zhang, Y.M.**, Williams, J.L., Lucky, A. (2019) Understanding UCEs: A comprehensive primer on using Ultraconserved Elements for arthropod phylogenomics. Insect Systematics and Diversity, 3: 3. <https://doi.org/10.1093/isd/ixz016> <br>
 2. Williams, J.L., **Zhang, Y.M.**, Lloyd, M.W., LaPolla, J.S., Schultz, T.R., Lucky, A. (2020) Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). Systematic Entomology, 45: 730–744. <https://doi.org/10.1111/syen.12423> <br>
@@ -40,8 +38,6 @@ My current postdoc work focuses on using UCEs to generate genomic-level data to 
 
 ### Taxonomy and Systematics of Gall Wasps and Associated Natural Enemies
 I am also interested in taxonomy of gall wasp and their associated natural enemies, in particular Eurytomidae. For my masters degree I revised the Canadian species of eurytomids associated with rose gall wasps (Cynipidae: _Diplolepis_). I used _COI_ to delimit species and provided an updated key along with the description of a new species. I have also used _COI_ and to rebuild the phylogeny of _Diplolepis_ and their inquiline _Periclistus_, which shows the both genera are in need of revision and gall morphology alone is not enough to identify these species. A few other related collaboration projects I've worked on includes the insects associated with the crypt gall wasp _Bassettia pallida_, including describing the crypt keeper wasp _Euderus set_. Currently I am revising oak gall wasp _Belonocnema_, and describing the gall community associated with _Smilax_ in southern Florida.<br>
-![](Photos/Diplolepis.jpg) 
-![](Photos/Smilax.jpg) 
 ![](Photos/Bassettia.jpg)<br>
 
 1. **Zhang, Y.M.**, Gates, M.W., Shorthouse, J.D. (2014). Testing species limits of Eurytomidae (Hymenoptera) associated with galls induced by _Diplolepis_ (Hymenoptera: Cynipidae) in Canada using an integrative approach. The Canadian Entomologist, 146: 321–334. <https://doi.org/10.4039/tce.2013.70> <br>
@@ -53,9 +49,7 @@ I am also interested in taxonomy of gall wasp and their associated natural enemi
 
 ### Taxonomy, Phylogenetics and Ecological Speciation of Braconid Wasps
 The focus of my PhD research was to investigate speciation patterns of  euphorine braconid wasps at the genus, species, and population level. _Peristenus_ are parasitoids agricultural pests such as Lygus bugs. I built a multilocus phylogeny of the tribe Euphorini and revised generic concepts (Zhang et al 2018a); revised the North American _Peristenus pallipes_ complex using a combination of molecular, morphometrics, and ecological data; and used ddRADSeq to determine that temporal separation is likely a key driver behind the _Lygus-Peristenus_ system. During this time I also collaborated with others braconid groups. <br>
-![](Photos/Peristenus1.jpg) 
-![](Photos/Peristenus2.jpg)
-![](Photos/Peristenus3.jpg)<br>
+![](Photos/Peristenus.jpg) <br>
 1. Sharanowski, B.J., **Zhang,Y.M.**, Wanigasekara, R.W.M.U.M. (2014). Annotated Checklist of Braconidae (Hymenoptera) in the Canadian Prairies Ecozone. In: Arthropods of Canadian Grasslands. Volume 4: Biodiversity and Systematics, Part 2. Edited by: D. J. Giberson and H. A. Cárcamo. Biological Survey of Canada. Chapter 10, pp 399-425. <https://doi.org/10.3752/9780968932179.ch10> <br>
 2. **Zhang, Y.M.**, Sharanowski, B.J. (2014). New species of _Eudiospilus_ (Braconidae, Brachistinae) from Madagascar with a review of the genus and key to species. Zootaxa, 3838: 120-126. <https://doi.org/10.11646/zootaxa.3838.1.7> <br>
 3. Quicke, D.L.J., Shaw, M.R., van Achterberg, C., Bland, K.P., Butcher, B.A., Lyszkowski, R., **Zhang, Y.M.** (2014). A new Australian genus and six new species of Rogadinae (Hymenoptera: Braconidae), one reared as gregarious endoparasitoid of an unidentified limacodid (Lepidoptera). Zootaxa, 3881: 237–257. <https://doi.org/10.11646/zootaxa.3881.3.3> <br>
@@ -65,8 +59,7 @@ The focus of my PhD research was to investigate speciation patterns of  euphorin
 7. Stigenberg, J., **Zhang, Y.M.** (2020). New findings of the subfamily Euphorinae (Hymenoptera: Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. In: Insects of Mount Wilhelm, Papua New Guinea Volume II. Edited by: T. Robillard, F. Legendre, C. Villemant, and M. Leponce. French Museum of Natural History, pp 145–190. <br>
 
 ### Other Publications
-![](Photos/WIM.jpg) 
-![](Photos/Tetramorium.jpg)<br> 
+![](Photos/WIM.jpg) <br>
 I've also dabbled in various topics such as demographic studies of ant biologists, population genomics of invasive ants, and range expansion of rare parasitoid wasps.
 1. Hogan, J.M., Bass, A.I.H., **Zhang, Y.M.**, Sharanowski, B.J. (2019). Integrating multiple sources of biodiversity information suggests range expansion of a rare species of Hymenoptera (Vanhorniidae). Biodiversity Data Journal, 7: e37569. <https://doi.org/10.3897/BDJ.7.e37569> <br>
 2. **Zhang, Y.M.**, Vitone, T., Storer, C.G., Payton, A.C., Dunn, R.R., Hulcr, J., McDaniel, S.F., Lucky, A. (2019) From pavement to population genomics: characterizing a long-established non-native ant in North America through citizen science and ddRADseq. Frontiers in Ecology & Evolution. 7: 453. <https://doi.org/10.3389/fevo.2019.00453> <br>
