@@ -7,7 +7,7 @@
 [GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
 
 I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain poorly-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of specialized herbivores and their associated parasitoid communities. Only with such understanding can we predict, for example, the consequences of climate change on the abundance and distribution of these systems and its effect on the ecosystem. <br>
-
+See my interview on [Entomology Today](https://entomologytoday.org/2020/12/21/entomologist-academic-probation-smithsonian-yuanmeng-miles-zhang-standout-early-career-professional/)<br>
 ## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
 2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
@@ -66,6 +66,6 @@ Braconidae: _Peristenus mellipes_
 I've also dabbled in various topics such as demographic studies of ant biologists, population genomics of invasive ants, and range expansion of rare parasitoid wasps.
 1. Hogan, J.M., Bass, A.I.H., **Zhang, Y.M.**, Sharanowski, B.J. (2019). Integrating multiple sources of biodiversity information suggests range expansion of a rare species of Hymenoptera (Vanhorniidae). Biodiversity Data Journal, 7: e37569. <https://doi.org/10.3897/BDJ.7.e37569> <br>
 2. **Zhang, Y.M.**, Vitone, T., Storer, C.G., Payton, A.C., Dunn, R.R., Hulcr, J., McDaniel, S.F., Lucky, A. (2019) From pavement to population genomics: characterizing a long-established non-native ant in North America through citizen science and ddRADseq. Frontiers in Ecology & Evolution. 7: 453. <https://doi.org/10.3389/fevo.2019.00453> <br>
-3. Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, Williams, J.L., Pinkney, J.L., Clancy, K.L., Nielsen, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. Myrmecological News, 30: 187-199. <https://doi.org/10.25849/myrmecol.news_030:187> <br>
+3. Lucky, A., Atchison, R.A., Ohyama, L., **Zhang, Y.M.**, Williams, J.L., Pinkney, J.L., Clancy, K.L., Nielsen, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. Myrmecological News, 30: 187-199. <https://doi.org/10.25849/myrmecol.news_030:187> **Best Paper Award 2020** <br>
 
 
