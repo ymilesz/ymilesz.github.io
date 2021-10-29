@@ -29,14 +29,14 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 ## RESEARCH
 
 ### Hymenoptera Phylogenomics using Ultraconserved Elements (UCEs)
-My postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Ants, Gall Wasps, and their Parasitoids: <br>
+My postdoc work focuses on using UCEs to generate genomic-level data to reconstruct the phylogeny of Hymenoptera: <br>
 ![](Photos/UCE.jpg) <br>
 1. **Zhang, Y.M.**, Williams, J.L., Lucky, A. (2019) Understanding UCEs: A comprehensive primer on using Ultraconserved Elements for arthropod phylogenomics. Insect Systematics and Diversity, 3: 3. [PDF](Pubs/Zhang et al 2019 - Understanding UCEs.pdf) <br>
 2. Williams, J.L., **Zhang, Y.M.**, Lloyd, M.W., LaPolla, J.S., Schultz, T.R., Lucky, A. (2020) Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). Systematic Entomology, 45: 730–744. [PDF](Pubs/Williams et al 2020 - Nylanderia UCE.pdf) <br>
 3. **Zhang, Y.M.**, Buffington, M.L., Looney, C., László, Z., Shorthouse, J.D., Ide, T., Lucky, A. (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of _Diplolepis_ Geoffrey (Hymenoptera: Cynipidae). Molecular Phylogenetics & Evolution, 153: 106949. [PDF](Pubs/Zhang et al 2020 - Diplolepis UCE.pdf) <br> 
 
-### Taxonomy and Systematics of Gall Wasps and Associated Natural Enemies
-I am also interested in taxonomy of gall wasp and their associated natural enemies, in particular Eurytomidae: <br>
+### Taxonomy and Systematics of Parasitoid Wasps
+I am also interested in taxonomy of parasitoid wasps, in particular gall wasp (Cynipidae) and seed chalcids (Eurytomidae): <br>
 ![](Photos/Gall.jpg)<br>
 1. **Zhang, Y.M.**, Gates, M.W., Shorthouse, J.D. (2014). Testing species limits of Eurytomidae (Hymenoptera) associated with galls induced by _Diplolepis_ (Hymenoptera: Cynipidae) in Canada using an integrative approach. The Canadian Entomologist, 146: 321–334. [PDF](Pubs/Zhang et al 2014 - Eurytomid Diplolepis Barcode.pdf) <br>
 2. Egan, S.P., Weinersmith, K.L., Liu, S., Ridenbaugh, R.D., **Zhang, Y.M.**, Forbes, A.A. (2017). Description of a new species of _Euderus_ Haliday from the southeastern United States (Hymenoptera, Chalcidoidea, Eulophidae): the crypt-keeper wasp. ZooKeys, 645: 37–49. [PDF](Pubs/Egan et al 2017 - Euderus set.pdf) **Featured in Science News, National Geographic, Popular Science, Eureka Alert, Daily Mail** <br>
@@ -45,6 +45,7 @@ I am also interested in taxonomy of gall wasp and their associated natural enemi
 5. Wienersmith, K.L., Forbes, A.A., Ward, A.K.G., Brandão-Dias, P.F.P., **Zhang, Y.M.**, Egan, S.P. (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). Annals of the Entomological Society of America, 113: 373–388. [PDF](Pubs/Wienersmith et al 2020 - Bassettia pallida community.pdf) <br>
 6. Gates, M.W., **Zhang, Y.M.**, Buffington, M.L. (2020) The great greenbriers gall mystery resolved? New species of _Aprostocetus_ Westwood (Hymenoptera, Eulophidae) gall inducer and two new parasitoids (Hymenoptera, Eurytomidae) associated with _Smilax_ L. in southern Florida, USA. Journal of Hymenoptera Research, 80: 71-98. [PDF](Pubs/Gates et al 2020 - Smilax gall.pdf) <br>
 7. **Zhang, Y.M.**, Egan, S.P., Driscoe, A.L., Ott, J.R. (2021) One Hundred and Sixty Years of Taxonomic Confusion Resolved: _Belonocnema_ Mayr (Hymenoptera: Cynipidae, Cynipini) Gall Wasps Associated with Live Oaks in the USA. In Press at Zoological Journal of the Linnean Society. [PDF](Pubs/Zhang et al 2021 - Belonocnema.pdf) <br>
+8. **Zhang, Y.M.**, Gates, M.W., Silvestre, R., Scarpa, M. (2021) Description of Kavayva gen. n. (Chalcidoidea, Eurytomidae) and two new species associated with Guarea (Meliaceae), and a review of eurytomids associated with seeds. Journal of Hymenoptera Research. 86: 101–121. [PDF](Pubs/Zhang et al 2021 - Kavayva.pdf) <br>
 
 ### Taxonomy, Phylogenetics and Ecological Speciation of Braconid Wasps
 The focus of my PhD research was to investigate speciation patterns of  euphorine braconid wasps at the genus, species, and population level: <br>
