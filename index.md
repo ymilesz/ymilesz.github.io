@@ -36,6 +36,7 @@ I mostly work with taxonomy, systematics, and phylogenomics of parasitic Hymenop
 4. Fernández ,DC, VanLaerhoven SL, Rodríguez-Leyva E, **Zhang YM**, Labbé, R. Population structure and genetic diversity of the pepper weevil (Coleoptera: Curculionidae) using the COI barcoding region. **Journal of Insect Science** 22(1): 25. [PDF](Pubs/Fernandez et al 2022 - Pepper Weevil.pdf)
 5. Campos-Moreno DF, Gates MW, **Zhang YM**, Pérez-Lachaud G, Dyer LA, Whitfield JB, Pozo C (2022) _Aximopsis gabrielae_ sp. nov.: A new gregarious parasitoid (Hymenoptera: Eurytomidae) of the skipper _Quadrus cerialis_ Stoll (Lepidoptera: Hesperiidae) feeding on _Piper amalago_ Kunth. in southern Mexico. Journal of Natural History, 56 (1–4), 173–189. [PDF](Pubs/Campos-Moreno et al 2022 - Aximopsis gabrielae.pdf) <br>
 6. Sheikh SI, Ward AKG, **Zhang YM**, Davis CK, Zhang L, Egan SP, Forbes AA (2022). _Ormyrus_ _labotus_ Walker (Hymenoptera: Ormyridae): another generalist that should not be a generalist is not a generalist. **Insect Systematics and Diversity**. 6(1): 8. [PDF](Pubs/Sheikh et al 2022 - Ormyrus.pdf) **Featured in New York Times, Eureka Alert** <br>
+7. **Zhang YM**, Sheikh SI, Ward AKG, Forbes AA, Prior KM, Stone GM, Gates MW, Egan SP, Zhang L, Davis C, Weinersmith KL, Melika G, Lucky A. Delimiting the cryptic diversity and host preferences of _Sycophila_ parasitoid wasps associated with oak galls using phylogenomic data. Early View at Molecular Ecology. [PDF](Pubs/Zhang et al 2022 - Sycophila.pdf) <br>
 ![](Photos/Gall.jpg) <br>
 
 **2021**
