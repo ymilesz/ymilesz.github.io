@@ -37,6 +37,7 @@ I mostly work with taxonomy, systematics, and phylogenomics of parasitic Hymenop
 6. Sheikh SI, Ward AKG, **Zhang YM**, Davis CK, Zhang L, Egan SP, Forbes AA (2022). _Ormyrus_ _labotus_ Walker (Hymenoptera: Ormyridae): another generalist that should not be a generalist is not a generalist. **Insect Systematics and Diversity**. 6(1): 8. [PDF](Pubs/Sheikh et al 2022 - Ormyrus.pdf) <br>
 7. **Zhang YM**, Sheikh SI, Ward AKG, Forbes AA, Prior KM, Stone GM, Gates MW, Egan SP, Zhang L, Davis C, Weinersmith KL, Melika G, Lucky A. Delimiting the cryptic diversity and host preferences of _Sycophila_ parasitoid wasps associated with oak galls using phylogenomic data. Early View at **Molecular Ecology**. [PDF](Pubs/Zhang et al 2022 - Sycophila.pdf) <br>
 8. Ward AKG, Bagley RK, Egan SP, Hood GR, Ott JR, Prior KM, Sheikh SI, Weinersmith KL, Zhang L, **Zhang YM**, Forbes AA. (2022). Speciation in Nearctic oak gall wasps is frequently correlated with changes in host plant, host organ, or both. Early View at **Evolution**. [PDF](Pubs/Ward et al 2022 - Cynipini.pdf) <br>
+9. **Zhang YM**, Sasan K, O’Kennon RJ, Kranz, AJ. (2022). Discovery through iNaturalist: new species and new records of oak gall wasps (Hymenoptera: Cynipidae: Cynipini) from Texas, USA. **Zootaxa**. 5168(1): 63–74. [PDF](Pubs/Zhang et al 2022 - Druon laceyi.pdf) <br>
 ![](Photos/Gall.jpg) <br>
 
 **2021**
