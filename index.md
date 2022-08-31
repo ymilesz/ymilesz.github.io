@@ -1,6 +1,6 @@
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
-## Postdoc, USDA, Systematic Entomology Lab
+## MSCA Postdoctoral Fellow, University of Edinburgh
  Email: yuanmeng.zhang AT gmail.com<br>
 [Twitter](https://twitter.com/ymilesz)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
@@ -17,7 +17,9 @@ Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
 2004 – 2009	B.Sc. Zoology, University of Guelph
 
 ## PROFESSIONAL EXPERIENCES
-2020 - Present ORISE Postdoctoral Research Scholar, USDA SEL <br>
+2022 - Present Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
+Advisor: Prof. [Graham Stone](https://www.ed.ac.uk/profile/graham-stone) <br>
+2020 - 2022 ORISE Postdoctoral Research Scholar, USDA SEL <br>
 Advisor: Dr. [Michael Gates](https://www.ars.usda.gov/people-locations/person/?person-id=36205) <br>
 2018 – 2020	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
@@ -27,24 +29,26 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
 ## RESEARCH
-I mostly work with taxonomy, systematics, and phylogenomics of parasitic Hymenoptera, but I also dabble in population genomics and evolutionary ecology on a variety of organisms such as ants, beetles, and nematodes.
+I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as beetles and nematodes.
 
 **2022**
 1. Brandão-Dias PFP, **Zhang YM**, Pirro S, Vinson CC, Weinersmith KL, Ward AKG, Forbes AA, Egan SP. Describing biodiversity in the genomics era: A new species of Nearctic Cynipidae gall wasp and its genome sequence. **Systematic Entomology** 47: 94–112. [PDF](Pubs/Brandao-Dias et al 2022 - Neuroterus valhalla.pdf) <br>
 2. Williams JL, **Zhang YM**, LaPolla JS, Schultz TR, Lucky A. Molecular Delimitation of Morphologically Cryptic Species in Globetrotting _Nylanderia_ (Hymenoptera: Formicidae) Species Complexes. **Insect Systematics and Diversity** 6(1): 10. [PDF](Pubs/Williams et al 2022 - Nylanderia delimitation.pdf) <br>
 3. Fernández DC, VanLaerhoven SL, Rodríguez-Leyva E, **Zhang YM**, Labbé, R. Population structure and genetic diversity of the pepper weevil (Coleoptera: Curculionidae) using the COI barcoding region. **Journal of Insect Science** 22(1): 25. [PDF](Pubs/Fernandez et al 2022 - Pepper Weevil.pdf)
 4. Campos-Moreno DF, Gates MW, **Zhang YM**, Pérez-Lachaud G, Dyer LA, Whitfield JB, Pozo C (2022) _Aximopsis gabrielae_ sp. nov.: A new gregarious parasitoid (Hymenoptera: Eurytomidae) of the skipper _Quadrus cerialis_ Stoll (Lepidoptera: Hesperiidae) feeding on _Piper amalago_ Kunth. in southern Mexico. **Journal of Natural History** 56 (1–4), 173–189. [PDF](Pubs/Campos-Moreno et al 2022 - Aximopsis gabrielae.pdf) <br>
-5. Sheikh SI, Ward AKG, **Zhang YM**, Davis CK, Zhang L, Egan SP, Forbes AA (2022). _Ormyrus_ _labotus_ Walker (Hymenoptera: Ormyridae): another generalist that should not be a generalist is not a generalist. **Insect Systematics and Diversity** 6(1): 8. [PDF](Pubs/Sheikh et al 2022 - Ormyrus.pdf) <br>
-6. **Zhang YM**, Sheikh SI, Ward AKG, Forbes AA, Prior KM, Stone GM, Gates MW, Egan SP, Zhang L, Davis C, Weinersmith KL, Melika G, Lucky A. Delimiting the cryptic diversity and host preferences of _Sycophila_ parasitoid wasps associated with oak galls using phylogenomic data. **Molecular Ecology** 31(16): 4417–4433. [PDF](Pubs/Zhang et al 2022 - Sycophila.pdf) <br>
+5. Sheikh SI, Ward AKG, **Zhang YM**, Davis CK, Zhang L, Egan SP, Forbes AA (2022). _Ormyrus labotus_ Walker (Hymenoptera: Ormyridae): another generalist that should not be a generalist is not a generalist. **Insect Systematics and Diversity** 6(1): 8. [PDF](Pubs/Sheikh et al 2022 - Ormyrus.pdf) <br>
+6. **Zhang YM**, Sheikh SI, Ward AKG, Forbes AA, Prior KM, Stone GM, Gates MW, Egan SP, Zhang L, Davis C, Weinersmith KL, Melika G, Lucky A. (2022a). Delimiting the cryptic diversity and host preferences of _Sycophila_ parasitoid wasps associated with oak galls using phylogenomic data. **Molecular Ecology** 31(16): 4417–4433. [PDF](Pubs/Zhang et al 2022 - Sycophila.pdf) <br>
 7. Ward AKG, Bagley RK, Egan SP, Hood GR, Ott JR, Prior KM, Sheikh SI, Weinersmith KL, Zhang L, **Zhang YM**, Forbes AA. (2022). Speciation in Nearctic oak gall wasps is frequently correlated with changes in host plant, host organ, or both. **Evolution** 76:(8) 1849-1867. [PDF](Pubs/Ward et al 2022 - Cynipini.pdf) <br>
-8. **Zhang YM**, Sasan K, O’Kennon RJ, Kranz, AJ. (2022). Discovery through iNaturalist: new species and new records of oak gall wasps (Hymenoptera: Cynipidae: Cynipini) from Texas, USA. **Zootaxa**. 5168(1): 63–74. [PDF](Pubs/Zhang et al 2022 - Druon laceyi.pdf) <br>
-9. Qing X, Peng H, Ma J, **Zhang YM**, Li H, Peng D, Wang X, Long T. (2022), Phylogeography of Chinese cereal cyst nematodes sheds lights on their origin and dispersal. Early View at **Evolutionary Applications**. [PDF](Pubs/Qing et al 2022 - Phylogeography of Chinese cereal cyst nematodes.pdf) <br>
-![](Photos/Gall.jpg) <br>
+8. **Zhang YM**, Sasan K, O’Kennon RJ, Kranz, AJ. (2022b). Discovery through iNaturalist: new species and new records of oak gall wasps (Hymenoptera: Cynipidae: Cynipini) from Texas, USA. **Zootaxa** 5168(1): 63–74. [PDF](Pubs/Zhang et al 2022 - Druon laceyi.pdf) <br>
+9. Qing X, Peng H, Ma J, **Zhang YM**, Li H, Peng D, Wang X, Long T. (2022), Phylogeography of Chinese cereal cyst nematodes sheds lights on their origin and dispersal. **Evolutionary Applications** 15(8): 1236–1248. [PDF](Pubs/Qing et al 2022 - Phylogeography of Chinese cereal cyst nematodes.pdf) <br>
+10. **Zhang YM**, Gates MW, Hanson PE, Jansen-González, S. (2022c). Description of a Neotropical gall inducer on Araceae: _Arastichus_, gen. n. (Hymenoptera: Eulophidae) and two new species. **Journal of Hymenoptera Research** 92: 145–172. [PDF](Pubs/Zhang et al 2022 - Arastichus.pdf) <br>
+![](Photos/Arastichus.png) Illustration by Taina Litwak<br>
 
 **2021**
 1. **Zhang YM**, Egan SP, Driscoe AL, Ott JR (2021) One Hundred and Sixty Years of Taxonomic Confusion Resolved: _Belonocnema_ Mayr (Hymenoptera: Cynipidae, Cynipini) Gall Wasps Associated with Live Oaks in the USA. **Zoological Journal of the Linnean Society**. 193: 1234-1255. [PDF](Pubs/Zhang et al 2021 - Belonocnema.pdf) <br>
 2. Huber JT, Bennett AMR, Gibson GAP, **Zhang YM**, Darling DC (2021). Checklist of Chalcidoidea and Mymarommatoidea (Hymenoptera) of Canada, Alaska and Greenland. **Journal of Hymenoptera Research** 82: 69-138. [PDF](Pubs/Huber et al 2021 - Checklist of Chalcidoidea.pdf)
 3. **Zhang YM**, Gates MW, Silvestre R, Scarpa M (2021) Description of _Kavayva_ gen. n. (Chalcidoidea, Eurytomidae) and two new species associated with _Guarea_ (Meliaceae), and a review of eurytomids associated with seeds. **Journal of Hymenoptera Research**. 86: 101–121. [PDF](Pubs/Zhang et al 2021 - Kavayva.pdf) **Corrigendum** [PDF](Pubs/Zhang et al 2021 - Corrigendum Kavayva.pdf) <br>
+![](Photos/Kavayva.png) Illustration by Taina Litwak<br>
 
 **2020**
 1. Williams JL, **Zhang YM**, Lloyd MW, LaPolla JS, Schultz TR, Lucky A (2020) Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). **Systematic Entomology**, 45: 730–744. [PDF](Pubs/Williams et al 2020 - Nylanderia UCE.pdf) <br>
@@ -53,7 +57,7 @@ I mostly work with taxonomy, systematics, and phylogenomics of parasitic Hymenop
 4. Stigenberg J, **Zhang YM** (2020). New findings of the subfamily Euphorinae (Hymenoptera: Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. In: **Insects of Mount Wilhelm, Papua New Guinea Volume II**. Edited by: T. Robillard, F. Legendre, C. Villemant, and M. Leponce. French Museum of Natural History, pp 145–190. [PDF](Pubs/Stigenberg & Zhang 2020 - PNG Euphorinae.pdf) <br>
 5. Weinersmith KL, Forbes AA, Ward AKG, Brandão-Dias PFP, **Zhang YM**, Egan SP (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). **Annals of the Entomological Society of America**, 113: 373–388. [PDF](Pubs/Wienersmith et al 2020 - Bassettia pallida community.pdf) <br>
 6. Gates MW, **Zhang YM**, Buffington, M.L. (2020) The great greenbriers gall mystery resolved? New species of _Aprostocetus_ Westwood (Hymenoptera, Eulophidae) gall inducer and two new parasitoids (Hymenoptera, Eurytomidae) associated with _Smilax_ L. in southern Florida, USA. **Journal of Hymenoptera Research**, 80: 71-98. [PDF](Pubs/Gates et al 2020 - Smilax gall.pdf) <br>
-![](Photos/UCE.jpg) <br>
+![](Photos/Smilax.png) Illustration by Taina Litwak<br>
 
 **2019**
 1. **Zhang YM**, Williams JL, Lucky A (2019) Understanding UCEs: A comprehensive primer on using Ultraconserved Elements for arthropod phylogenomics. **Insect Systematics and Diversity**, 3(5): 3. [PDF](Pubs/Zhang et al 2019 - Understanding UCEs.pdf) <br>
@@ -64,7 +68,6 @@ I mostly work with taxonomy, systematics, and phylogenomics of parasitic Hymenop
 **2018**
 1. **Zhang YM**, Stigenberg J, Meyer J, Sharanowski BJ (2018). Multilocus phylogeny of the parasitic wasps in the tribe Euphorini (Braconidae: Euphorinae) with revised generic classifications. **PeerJ**, 6: e4783. [PDF](Pubs/Zhang et al 2018 - Euphorini.pdf) <br>
 2. **Zhang YM**, Bass AIH, Fernández DC, Sharanowski BJ (2018). Habitat or Temporal Isolation: Unravelling herbivore-parasitoid speciation patterns using double digest RADseq. **Ecology and Evolution**, 8: 9803–9816. [PDF](Pubs/Zhang et al 2018 - HAD.pdf) <br>
-![](Photos/Peristenus.jpg) <br>
 
 **2017**
 1. **Zhang YM**, Ridenbaugh RD, Sharanowski BJ (2017). Integrative taxonomy improves understanding of native beneficial fauna: Revision of the Nearctic _Peristenus pallipes_ complex (Hymenoptera: Braconidae) and implications for release of exotic biocontrol agents. **Systematic Entomology**, 42: 596-608. [PDF](Pubs/Zhang et al 2017 - Peristenus pallipes.pdf) **Top 20 Most Downloaded Paper for Systematic Entomology in 2017/2018** <br>
