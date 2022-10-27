@@ -42,13 +42,16 @@ I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in 
 8. **Zhang YM**, Sasan K, O’Kennon RJ, Kranz, AJ. (2022b). Discovery through iNaturalist: new species and new records of oak gall wasps (Hymenoptera: Cynipidae: Cynipini) from Texas, USA. **Zootaxa** 5168(1): 63–74. [PDF](Pubs/Zhang et al 2022 - Druon laceyi.pdf) <br>
 9. Qing X, Peng H, Ma J, **Zhang YM**, Li H, Peng D, Wang X, Long T. (2022), Phylogeography of Chinese cereal cyst nematodes sheds lights on their origin and dispersal. **Evolutionary Applications** 15(8): 1236–1248. [PDF](Pubs/Qing et al 2022 - Phylogeography of Chinese cereal cyst nematodes.pdf) <br>
 10. **Zhang YM**, Gates MW, Hanson PE, Jansen-González, S. (2022c). Description of a Neotropical gall inducer on Araceae: _Arastichus_, gen. n. (Hymenoptera: Eulophidae) and two new species. **Journal of Hymenoptera Research** 92: 145–172. [PDF](Pubs/Zhang et al 2022 - Arastichus.pdf) <br>
-![](Photos/Arastichus.png) Illustration by Taina Litwak<br>
+11. Friesen C, **Zhang YM**. (2022). Rose gall wasps (Cynipidae: _Diplolepis_) of Manitoba, including a new provincial record. **The Proceedings of the Entomological Society of Manitoba**, 7: 52–60. [PDF](Pubs/Friesen & Zhang 2022 - Dgracilis.pdf) <br>
+![](Photos/Arastichus.png) <br>
+Illustration by Taina Litwak<br>
 
 **2021**
 1. **Zhang YM**, Egan SP, Driscoe AL, Ott JR (2021) One Hundred and Sixty Years of Taxonomic Confusion Resolved: _Belonocnema_ Mayr (Hymenoptera: Cynipidae, Cynipini) Gall Wasps Associated with Live Oaks in the USA. **Zoological Journal of the Linnean Society**. 193: 1234-1255. [PDF](Pubs/Zhang et al 2021 - Belonocnema.pdf) <br>
 2. Huber JT, Bennett AMR, Gibson GAP, **Zhang YM**, Darling DC (2021). Checklist of Chalcidoidea and Mymarommatoidea (Hymenoptera) of Canada, Alaska and Greenland. **Journal of Hymenoptera Research** 82: 69-138. [PDF](Pubs/Huber et al 2021 - Checklist of Chalcidoidea.pdf)
 3. **Zhang YM**, Gates MW, Silvestre R, Scarpa M (2021) Description of _Kavayva_ gen. n. (Chalcidoidea, Eurytomidae) and two new species associated with _Guarea_ (Meliaceae), and a review of eurytomids associated with seeds. **Journal of Hymenoptera Research**. 86: 101–121. [PDF](Pubs/Zhang et al 2021 - Kavayva.pdf) **Corrigendum** [PDF](Pubs/Zhang et al 2021 - Corrigendum Kavayva.pdf) <br>
-![](Photos/Kavayva.png) Illustration by Taina Litwak<br>
+![](Photos/Kavayva.png) <br> 
+Illustration by Taina Litwak<br>
 
 **2020**
 1. Williams JL, **Zhang YM**, Lloyd MW, LaPolla JS, Schultz TR, Lucky A (2020) Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). **Systematic Entomology**, 45: 730–744. [PDF](Pubs/Williams et al 2020 - Nylanderia UCE.pdf) <br>
@@ -57,7 +60,8 @@ I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in 
 4. Stigenberg J, **Zhang YM** (2020). New findings of the subfamily Euphorinae (Hymenoptera: Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. In: **Insects of Mount Wilhelm, Papua New Guinea Volume II**. Edited by: T. Robillard, F. Legendre, C. Villemant, and M. Leponce. French Museum of Natural History, pp 145–190. [PDF](Pubs/Stigenberg & Zhang 2020 - PNG Euphorinae.pdf) <br>
 5. Weinersmith KL, Forbes AA, Ward AKG, Brandão-Dias PFP, **Zhang YM**, Egan SP (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). **Annals of the Entomological Society of America**, 113: 373–388. [PDF](Pubs/Wienersmith et al 2020 - Bassettia pallida community.pdf) <br>
 6. Gates MW, **Zhang YM**, Buffington, M.L. (2020) The great greenbriers gall mystery resolved? New species of _Aprostocetus_ Westwood (Hymenoptera, Eulophidae) gall inducer and two new parasitoids (Hymenoptera, Eurytomidae) associated with _Smilax_ L. in southern Florida, USA. **Journal of Hymenoptera Research**, 80: 71-98. [PDF](Pubs/Gates et al 2020 - Smilax gall.pdf) <br>
-![](Photos/Smilax.png) Illustration by Taina Litwak<br>
+![](Photos/Smilax.png) <br>
+Illustration by Taina Litwak<br>
 
 **2019**
 1. **Zhang YM**, Williams JL, Lucky A (2019) Understanding UCEs: A comprehensive primer on using Ultraconserved Elements for arthropod phylogenomics. **Insect Systematics and Diversity**, 3(5): 3. [PDF](Pubs/Zhang et al 2019 - Understanding UCEs.pdf) <br>
