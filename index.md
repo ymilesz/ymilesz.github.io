@@ -29,7 +29,7 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
 
 ## RESEARCH
-I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as beetles and nematodes.
+I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
 **2022**
 1. Brandão-Dias PFP, **Zhang YM**, Pirro S, Vinson CC, Weinersmith KL, Ward AKG, Forbes AA, Egan SP. Describing biodiversity in the genomics era: A new species of Nearctic Cynipidae gall wasp and its genome sequence. **Systematic Entomology** 47: 94–112. [PDF](Pubs/Brandao-Dias et al 2022 - Neuroterus valhalla.pdf) <br>
