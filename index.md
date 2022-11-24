@@ -43,6 +43,7 @@ I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in 
 9. Qing X, Peng H, Ma J, **Zhang YM**, Li H, Peng D, Wang X, Long T. (2022), Phylogeography of Chinese cereal cyst nematodes sheds lights on their origin and dispersal. **Evolutionary Applications** 15(8): 1236–1248. [PDF](Pubs/Qing et al 2022 - Phylogeography of Chinese cereal cyst nematodes.pdf) <br>
 10. **Zhang YM**, Gates MW, Hanson PE, Jansen-González, S. (2022c). Description of a Neotropical gall inducer on Araceae: _Arastichus_, gen. n. (Hymenoptera: Eulophidae) and two new species. **Journal of Hymenoptera Research** 92: 145–172. [PDF](Pubs/Zhang et al 2022 - Arastichus.pdf) <br>
 11. Friesen C, **Zhang YM**. (2022). Rose gall wasps (Cynipidae: _Diplolepis_) of Manitoba, including a new provincial record. **The Proceedings of the Entomological Society of Manitoba**, 7: 52–60. [PDF](Pubs/Friesen & Zhang 2022 - Dgracilis.pdf) <br>
+12. Ward AKG, Busbee, RW, Chen RA, Davis CD, Driscoe AL, Egan SP, Goldberg BAR, Hood GR, Jones D, Kranz AJ, Meadley-Dunphy SA, Milks AK, Ott JR, Prior KM, Sheikh SI, Shzu S, Weinersmith KL, Zhang L, **Zhang YM**, Forbes AA. (2022) The arthropod associates of 155 North American cynipid oak galls. **Zoological Studies** 61: 57. [PDF](https://zoolstud.sinica.edu.tw/Journals/61/61-57.pdf) <br>
 ![](Photos/Arastichus.png) <br>
 Illustration by Taina Litwak<br>
 
