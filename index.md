@@ -9,7 +9,7 @@
 I am an evolutionary biologist specializing in the diversity and evolution of parasitic wasps. These organisms, though often tiny, contribute an estimated 20% of terrestrial animal species and play diverse and important roles in many ecosystems, including natural control of insect pests. However, the evolutionary forces that have driven the explosive diversification of parasitic wasps remain poorly-understood. My long-term aim is to establish and lead a research group that explores the causation of the enormous abundance and species richness of specialized herbivores and their associated parasitoid communities. Only with such understanding can we predict, for example, the consequences of climate change on the abundance and distribution of these systems and its effect on the ecosystem. <br>
 
 My interview on [Entomology Today](https://entomologytoday.org/2020/12/21/entomologist-academic-probation-smithsonian-yuanmeng-miles-zhang-standout-early-career-professional/)<br>
-TedEd Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi0VF8)<br>
+TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi0VF8)<br>
 
 ## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
@@ -35,7 +35,8 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
 **2023**
-1. Kresslein RL, McClelland A, Fernández Flores SR, **Zhang YM** (2023). Superfamilies Chalcidoidea and Mymarommatoidea. In: Biodiversity & Classification of Wasps, 1st Edition. Edited by: Nastasi LK, Kresslein RL, Fowler KO, Fernández Flores SR. Wasp ID Course. Chapter 11, pp 205–278, https://doi.org/10.26207/ax00-rk88
+1. Kresslein RL, McClelland A, Fernández Flores SR, **Zhang YM** (2023). Superfamilies Chalcidoidea and Mymarommatoidea. In: Biodiversity & Classification of Wasps, 1st Edition. Edited by: Nastasi LK, Kresslein RL, Fowler KO, Fernández Flores SR. Wasp ID Course. Chapter 11, pp 205–278, [PDF](https://scholarsphere.psu.edu/resources/a0edbed3-a28f-4212-a8bc-7742851ecbd4) <br>
+
 **2022**
 1. Brandão-Dias PFP, **Zhang YM**, Pirro S, Vinson CC, Weinersmith KL, Ward AKG, Forbes AA, Egan SP (2022) Describing biodiversity in the genomics era: A new species of Nearctic Cynipidae gall wasp and its genome sequence. **Systematic Entomology** 47: 94–112. [PDF](Pubs/Brandao-Dias et al 2022 - Neuroterus valhalla.pdf) <br>
 2. Williams JL, **Zhang YM**, LaPolla JS, Schultz TR, Lucky A. (2022) Molecular Delimitation of Morphologically Cryptic Species in Globetrotting _Nylanderia_ (Hymenoptera: Formicidae) Species Complexes. **Insect Systematics and Diversity** 6(1): 10. [PDF](Pubs/Williams et al 2022 - Nylanderia species complexes.pdf) <br>
@@ -66,7 +67,7 @@ Illustration by Taina Litwak<br>
 4. Stigenberg J, **Zhang YM** (2020). New findings of the subfamily Euphorinae (Hymenoptera: Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. In: **Insects of Mount Wilhelm, Papua New Guinea Volume II**. Edited by: T. Robillard, F. Legendre, C. Villemant, and M. Leponce. French Museum of Natural History, pp 145–190. [PDF](Pubs/Stigenberg & Zhang 2020 - PNG Euphorinae.pdf) <br>
 5. Weinersmith KL, Forbes AA, Ward AKG, Brandão-Dias PFP, **Zhang YM**, Egan SP (2020) Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). **Annals of the Entomological Society of America**, 113: 373–388. [PDF](Pubs/Wienersmith et al 2020 - Bassettia pallida community.pdf) <br>
 6. Gates MW, **Zhang YM**, Buffington, M.L. (2020) The great greenbriers gall mystery resolved? New species of _Aprostocetus_ Westwood (Hymenoptera, Eulophidae) gall inducer and two new parasitoids (Hymenoptera, Eurytomidae) associated with _Smilax_ L. in southern Florida, USA. **Journal of Hymenoptera Research**, 80: 71-98. [PDF](Pubs/Gates et al 2020 - Smilax gall.pdf) <br>
-![](Photos/Smilax.png) <br>
+![](Photos/Aprostocetus_smilax.png) <br>
 Illustration by Taina Litwak<br>
 
 **2019**
