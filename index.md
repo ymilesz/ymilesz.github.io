@@ -35,7 +35,7 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
 **2023**
-1. Kresslein RL, McClelland A, Fernández Flores SR, **Zhang YM** (2023). Superfamilies Chalcidoidea and Mymarommatoidea. In: Biodiversity & Classification of Wasps, 1st Edition. Edited by: Nastasi LK, Kresslein RL, Fowler KO, Fernández Flores SR. Wasp ID Course. Chapter 11, pp 205–278, [PDF](https://scholarsphere.psu.edu/resources/a0edbed3-a28f-4212-a8bc-7742851ecbd4) <br>
+1. Kresslein RL, McClelland A, Fernández Flores SR, **Zhang YM** (2023). Superfamilies Chalcidoidea and Mymarommatoidea. In: Biodiversity & Classification of Wasps, 1st Edition. Edited by: Nastasi LK, Kresslein RL, Fowler KO, Fernández Flores SR. Wasp ID Course. Chapter 11, pp 205–278. [PDF](https://scholarsphere.psu.edu/resources/a0edbed3-a28f-4212-a8bc-7742851ecbd4) <br>
 
 **2022**
 1. Brandão-Dias PFP, **Zhang YM**, Pirro S, Vinson CC, Weinersmith KL, Ward AKG, Forbes AA, Egan SP (2022) Describing biodiversity in the genomics era: A new species of Nearctic Cynipidae gall wasp and its genome sequence. **Systematic Entomology** 47: 94–112. [PDF](Pubs/Brandao-Dias et al 2022 - Neuroterus valhalla.pdf) <br>
