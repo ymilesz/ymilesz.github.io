@@ -35,7 +35,7 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
 **2023**
-1. Kresslein RL, McClelland A, Fernández Flores SR, **Zhang YM** (2023). Superfamilies Chalcidoidea and Mymarommatoidea. In: Biodiversity & Classification of Wasps, 1st Edition. Edited by: Nastasi LK, Kresslein RL, Fowler KO, Fernández Flores SR. Wasp ID Course. Chapter 11, pp 205–278. [PDF](https://scholarsphere.psu.edu/resources/a0edbed3-a28f-4212-a8bc-7742851ecbd4) <br>
+1. Pujade-Villar J, **Zhang YM**, Buffington ML, Brothers DJ, Lobato-Vila I, Cuesta-Porta V. (2023). On the specific epithet “_vaccinii_” of Ashmead, 1887 and Burks, 1979 (Hymenoptera, Cynipidae). **Journal of Hymenoptera Research**, 96, 955–965. [PDF](Pubs/Pujade-Villar et al 2023 - vaccinii.pdf) <br>
 2. Orr MC, Hughes AC, Torres Carvajal O, Ferrari RR, Luo A, Rajaei H, Ron SR, Warrit N, Zamani A, **Zhang YM**, Zhu C-D. (2023). Inclusive and productive ways forward needed for species-naming conventions. **Nature Ecology & Evolution** 7, 1168–1169. [PDF](Pubs/Orr et al 2023 - Species Naming.pdf) <br>
 3. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2023). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology** [PDF](Pubs/Lackner et al 2023 - Saprininae.pdf) <br>
 
