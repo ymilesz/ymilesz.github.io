@@ -35,9 +35,11 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
 **2023**
-1. Pujade-Villar J, **Zhang YM**, Buffington ML, Brothers DJ, Lobato-Vila I, Cuesta-Porta V. (2023). On the specific epithet “_vaccinii_” of Ashmead, 1887 and Burks, 1979 (Hymenoptera, Cynipidae). **Journal of Hymenoptera Research**, 96, 955–965. [PDF](Pubs/Pujade-Villar et al 2023 - vaccinii.pdf) <br>
-2. Orr MC, Hughes AC, Torres Carvajal O, Ferrari RR, Luo A, Rajaei H, Ron SR, Warrit N, Zamani A, **Zhang YM**, Zhu C-D. (2023). Inclusive and productive ways forward needed for species-naming conventions. **Nature Ecology & Evolution** 7, 1168–1169. [PDF](Pubs/Orr et al 2023 - Species Naming.pdf) <br>
-3. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2023). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology** [PDF](Pubs/Lackner et al 2023 - Saprininae.pdf) <br>
+1. Qing X, **Zhang YM** (equal contribution as 1st author), Sun S, Ahmed M, Lo W-S, Bert W, Holovachov O, Li H. (2023). Phylogenomic Insights into the Evolution and Origin of Nematoda. **In Review**. Preprint: https://doi.org/10.1101/2023.12.13.571554
+2. Ward AKG, **Zhang YM**, Brown GE, Hippee AC, Prior KM, Rollins S, Sierra N, Sheikh SI, Tribull CM, Forbes AA. (2023). Speciation in kleptoparasites of oak gall wasps often correlates with shifts into new tree habitats, tree organs, and gall morphospace. **Evolution**. [PDF](Pubs/Ward et al 2023 - Inquilines.pdf) <br>
+3. Pujade-Villar J, **Zhang YM**, Buffington ML, Brothers DJ, Lobato-Vila I, Cuesta-Porta V. (2023). On the specific epithet “_vaccinii_” of Ashmead, 1887 and Burks, 1979 (Hymenoptera, Cynipidae). **Journal of Hymenoptera Research**, 96, 955–965. [PDF](Pubs/Pujade-Villar et al 2023 - vaccinii.pdf) <br>
+4. Orr MC, Hughes AC, Torres Carvajal O, Ferrari RR, Luo A, Rajaei H, Ron SR, Warrit N, Zamani A, **Zhang YM**, Zhu C-D. (2023). Inclusive and productive ways forward needed for species-naming conventions. **Nature Ecology & Evolution** 7, 1168–1169. [PDF](Pubs/Orr et al 2023 - Species Naming.pdf) <br>
+5. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2023). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology** [PDF](Pubs/Lackner et al 2023 - Saprininae.pdf) <br>
 
 **2022**
 1. Brandão-Dias PFP, **Zhang YM**, Pirro S, Vinson CC, Weinersmith KL, Ward AKG, Forbes AA, Egan SP (2022). Describing biodiversity in the genomics era: A new species of Nearctic Cynipidae gall wasp and its genome sequence. **Systematic Entomology** 47: 94–112. [PDF](Pubs/Brandao-Dias et al 2022 - Neuroterus valhalla.pdf) <br>
@@ -58,7 +60,7 @@ Illustration by Taina Litwak<br>
 **2021**
 1. **Zhang YM**, Egan SP, Driscoe AL, Ott JR (2021). One Hundred and Sixty Years of Taxonomic Confusion Resolved: _Belonocnema_ Mayr (Hymenoptera: Cynipidae, Cynipini) Gall Wasps Associated with Live Oaks in the USA. **Zoological Journal of the Linnean Society**. 193: 1234-1255. [PDF](Pubs/Zhang et al 2021 - Belonocnema.pdf) <br>
 2. Huber JT, Bennett AMR, Gibson GAP, **Zhang YM**, Darling DC (2021). Checklist of Chalcidoidea and Mymarommatoidea (Hymenoptera) of Canada, Alaska and Greenland. **Journal of Hymenoptera Research** 82: 69-138. [PDF](Pubs/Huber et al 2021 - Checklist of Chalcidoidea.pdf)
-3. **Zhang YM**, Gates MW, Silvestre R, Scarpa M (2021). Description of _Kavayva_ gen. n. (Chalcidoidea, Eurytomidae) and two new species associated with _Guarea_ (Meliaceae), and a review of eurytomids associated with seeds. **Journal of Hymenoptera Research**. 86: 101–121. [PDF](Pubs/Zhang et al 2021 - Kavayva.pdf) **Corrigendum** [PDF](Pubs/Zhang et al 2021 - Corrigendum Kavayva.pdf) <br>
+3. **Zhang YM**, Gates MW, Silvestre R, Scarpa M (2021). Description of _Kavayva_ gen. n. (Chalcidoidea, Eurytomidae) and two new species associated with _Guarea_ (Meliaceae), and a review of eurytomids associated with seeds. **Journal of Hymenoptera Research**. 86: 101–121. [PDF](Pubs/Zhang et al 2021 - Kavayva.pdf)
 ![](Photos/Kavayva.png) <br> 
 Illustration by Taina Litwak<br>
 
