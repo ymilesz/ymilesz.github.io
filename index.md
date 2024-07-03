@@ -16,7 +16,7 @@ TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi
 2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
 Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/) <br>
 2009 – 2012	M.Sc. Biology, Laurentian University <br>
-Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/jshorthous) <br>
+Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/JShorthouse) <br>
 2004 – 2009	B.Sc. Zoology, University of Guelph
 
 ## PROFESSIONAL EXPERIENCES
@@ -35,11 +35,12 @@ Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
 **2024**
-1. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2023). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology**, 49(1): 48–71. [PDF](Pubs/Lackner et al 2024 - Saprininae.pdf) <br>
+1. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2024). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology**, 49(1): 48–71. [PDF](Pubs/Lackner et al 2024 - Saprininae.pdf) <br>
 2. Ward AKG, **Zhang YM**, Brown GE, Hippee AC, Prior KM, Rollins S, Sierra N, Sheikh SI, Tribull CM, Forbes AA. (2024). Speciation in kleptoparasites of oak gall wasps often correlates with shifts into new tree habitats, tree organs, and gall morphospace. **Evolution**, 78: 174–187. [PDF](Pubs/Ward et al 2024 - Inquilines.pdf) <br>
+3. Sinclair FH, Tang C-T, Bailey RA, Csóka GL, Melika G, Nicholls JA, Nieves-Aldrey J-L, Reiss A, **Zhang YM**, Phillimore A, Schönrogge K, Stone GN. (2024). Phylogenetic and non-phylogenetic patterns in the richness, frequency and composition of links in a herbivore-parasitoid interaction network. **In Review**, Preprint https://doi.org/10.1101/2024.06.30.601383 <br>
 
 **2023**
-1. Qing X, **Zhang YM** (equal contribution as 1st author), Sun S, Ahmed M, Lo W-S, Bert W, Holovachov O, Li H. (2023). Phylogenomic Insights into the Evolution and Origin of Nematoda. **In Review**, Preprint: https://doi.org/10.1101/2023.12.13.571554
+1. Qing X, **Zhang YM** (equal contribution as 1st author), Sun S, Ahmed M, Lo W-S, Bert W, Holovachov O, Li H. (2023). Phylogenomic Insights into the Evolution and Origin of Nematoda. **In Revision**, Preprint: https://doi.org/10.1101/2023.12.13.571554 <br>
 2. Pujade-Villar J, **Zhang YM**, Buffington ML, Brothers DJ, Lobato-Vila I, Cuesta-Porta V. (2023). On the specific epithet “_vaccinii_” of Ashmead, 1887 and Burks, 1979 (Hymenoptera, Cynipidae). **Journal of Hymenoptera Research**, 96: 955–965. [PDF](Pubs/Pujade-Villar et al 2023 - vaccinii.pdf) <br>
 3. Orr MC, Hughes AC, Torres Carvajal O, Ferrari RR, Luo A, Rajaei H, Ron SR, Warrit N, Zamani A, **Zhang YM**, Zhu C-D. (2023). Inclusive and productive ways forward needed for species-naming conventions. **Nature Ecology & Evolution**, 7: 1168–1169. [PDF](Pubs/Orr et al 2023 - Species Naming.pdf) <br>
 
@@ -61,8 +62,8 @@ Illustration by Taina Litwak<br>
 
 **2021**
 1. **Zhang YM**, Egan SP, Driscoe AL, Ott JR (2021). One Hundred and Sixty Years of Taxonomic Confusion Resolved: _Belonocnema_ Mayr (Hymenoptera: Cynipidae, Cynipini) Gall Wasps Associated with Live Oaks in the USA. **Zoological Journal of the Linnean Society**, 193(4): 1234-1255. [PDF](Pubs/Zhang et al 2021 - Belonocnema.pdf) <br>
-2. Huber JT, Bennett AMR, Gibson GAP, **Zhang YM**, Darling DC (2021). Checklist of Chalcidoidea and Mymarommatoidea (Hymenoptera) of Canada, Alaska and Greenland. **Journal of Hymenoptera Research**, 82: 69-138. [PDF](Pubs/Huber et al 2021 - Checklist of Chalcidoidea.pdf)
-3. **Zhang YM**, Gates MW, Silvestre R, Scarpa M (2021). Description of _Kavayva_ gen. n. (Chalcidoidea, Eurytomidae) and two new species associated with _Guarea_ (Meliaceae), and a review of eurytomids associated with seeds. **Journal of Hymenoptera Research**, 86: 101–121. [PDF](Pubs/Zhang et al 2021 - Kavayva.pdf)
+2. Huber JT, Bennett AMR, Gibson GAP, **Zhang YM**, Darling DC (2021). Checklist of Chalcidoidea and Mymarommatoidea (Hymenoptera) of Canada, Alaska and Greenland. **Journal of Hymenoptera Research**, 82: 69-138. [PDF](Pubs/Huber et al 2021 - Checklist of Chalcidoidea.pdf) <br>
+3. **Zhang YM**, Gates MW, Silvestre R, Scarpa M (2021). Description of _Kavayva_ gen. n. (Chalcidoidea, Eurytomidae) and two new species associated with _Guarea_ (Meliaceae), and a review of eurytomids associated with seeds. **Journal of Hymenoptera Research**, 86: 101–121. [PDF](Pubs/Zhang et al 2021 - Kavayva.pdf) <br>
 ![](Photos/Kavayva.png) <br> 
 Illustration by Taina Litwak<br>
 
@@ -70,7 +71,7 @@ Illustration by Taina Litwak<br>
 1. Williams JL, **Zhang YM**, Lloyd MW, LaPolla JS, Schultz TR, Lucky A (2020). Global domination by crazy ants: Phylogenomics reveals biogeographic history and invasive species relationships in the genus _Nylanderia_ (Hymenoptera, Formicidae). **Systematic Entomology**, 45(4): 730–744. [PDF](Pubs/Williams et al 2020 - Nylanderia UCE.pdf) <br>
 2. **Zhang YM**, Buffington ML, Looney C, László Z, Shorthouse JD, Ide T, Lucky A (2020). UCE data reveal multiple origins of rose gallers in North America: Global phylogeny of _Diplolepis_ Geoffrey (Hymenoptera: Cynipidae). **Molecular Phylogenetics & Evolution**, 153: 106949. [PDF](Pubs/Zhang et al 2020 - Diplolepis UCE.pdf) <br> 
 3. Lucky A, Atchison RA, Ohyama L, **Zhang YM**, Williams JL, Pinkney IV JL, Clancy KL, Nielsen AN, Lippi CA (2020). Myrmecology, Gender, and Geography: changing demographics of a research community over thirty years. **Myrmecological News**, 30: 187-199. [PDF](Pubs/Lucky et al 2020 - WIM.pdf) **Best Paper Award 2020** <br>
-4. Stigenberg J, **Zhang YM** (2020). New findings of the subfamily Euphorinae (Hymenoptera: Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. In: **Insects of Mount Wilhelm, Papua New Guinea Volume II**. Edited by: T. Robillard, F. Legendre, C. Villemant, and M. Leponce. French Museum of Natural History, pp 145–190. [PDF](Pubs/Stigenberg & Zhang 2020 - PNG Euphorinae.pdf) <br>
+4. Stigenberg J, **Zhang YM** (2020). New findings of the subfamily Euphorinae (Hymenoptera: Braconidae) from Papua New Guinea, with descriptions, illustrations, and molecular data. In: **Insects of Mount Wilhelm, Papua New Guinea Volume II**. Edited by: Robillard T, Legendre F, Villemant C, Leponce M. French Museum of Natural History, pp 145–190. [PDF](Pubs/Stigenberg & Zhang 2020 - PNG Euphorinae.pdf) <br>
 5. Weinersmith KL, Forbes AA, Ward AKG, Brandão-Dias PFP, **Zhang YM**, Egan SP (2020). Invertebrate Community Associated with the Asexual Generation of _Bassettia pallida_ Ashmead (Hymenoptera: Cynipidae). **Annals of the Entomological Society of America**, 113(5): 373–388. [PDF](Pubs/Wienersmith et al 2020 - Bassettia pallida community.pdf) <br>
 6. Gates MW, **Zhang YM**, Buffington, M.L. (2020). The great greenbriers gall mystery resolved? New species of _Aprostocetus_ Westwood (Hymenoptera, Eulophidae) gall inducer and two new parasitoids (Hymenoptera, Eurytomidae) associated with _Smilax_ L. in southern Florida, USA. **Journal of Hymenoptera Research**, 80: 71-98. [PDF](Pubs/Gates et al 2020 - Smilax gall.pdf) <br>
 ![](Photos/Aprostocetus_smilax.png) <br>
@@ -92,7 +93,7 @@ Illustration by Taina Litwak<br>
 3. **Zhang YM**, Gates MW, Shorthouse JD (2017). Revision of Canadian Eurytomidae (Hymenoptera, Chalcidoidea) associated with galls induced by cynipid wasps of the genus _Diplolepis_ Geoffroy (Hymenoptera, Cynipidae) and description of a new species. **Journal of Hymenoptera Research**, 61: 1–29. [PDF](Pubs/Zhang et al 2017 - Eurytomid Diplolepis Revision.pdf) <br>
 
 **2014**
-1. Sharanowski BJ, **Zhang YM**, Wanigasekara RWMUM (2014). Annotated Checklist of Braconidae (Hymenoptera) in the Canadian Prairies Ecozone. In: **Arthropods of Canadian Grasslands. Volume 4: Biodiversity and Systematics, Part 2.** Edited by: D. J. Giberson and H. A. Cárcamo. Biological Survey of Canada. Chapter 10, pp 399-425. [PDF](Pubs/Sharanowski et al 2014 - Braconid checklist.pdf) <br>
+1. Sharanowski BJ, **Zhang YM**, Wanigasekara RWMUM (2014). Annotated Checklist of Braconidae (Hymenoptera) in the Canadian Prairies Ecozone. In: **Arthropods of Canadian Grasslands. Volume 4: Biodiversity and Systematics, Part 2.** Edited by: Giberson DJ, Cárcamo, HA. Biological Survey of Canada. Chapter 10, pp 399-425. [PDF](Pubs/Sharanowski et al 2014 - Braconid checklist.pdf) <br>
 2. **Zhang YM**, Sharanowski BJ (2014). New species of _Eudiospilus_ (Braconidae, Brachistinae) from Madagascar with a review of the genus and key to species. **Zootaxa**, 3838(1): 120-126. [PDF](Pubs/Zhang & Sharanowski 2014 - Eudiospilus.pdf) <br>
 3. Quicke DLJ, Shaw MR, van Achterberg C, Bland KP, Butcher BA, Lyszkowski R, **Zhang YM** (2014). A new Australian genus and six new species of Rogadinae (Hymenoptera: Braconidae), one reared as gregarious endoparasitoid of an unidentified limacodid (Lepidoptera). **Zootaxa**, 3881(3): 237–257. [PDF](Pubs/Quicke et al 2014 - Rogadine.pdf) <br>
 4. **Zhang YM**, Gates MW, Shorthouse JD (2014). Testing species limits of Eurytomidae (Hymenoptera) associated with galls induced by _Diplolepis_ (Hymenoptera: Cynipidae) in Canada using an integrative approach. **The Canadian Entomologist**, 146(3): 321–334. [PDF](Pubs/Zhang et al 2014 - Eurytomid Diplolepis Barcode.pdf) <br>
