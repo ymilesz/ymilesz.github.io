@@ -11,7 +11,13 @@ I am an evolutionary biologist specializing in the diversity and evolution of pa
 My interview on [Entomology Today](https://entomologytoday.org/2020/12/21/entomologist-academic-probation-smithsonian-yuanmeng-miles-zhang-standout-early-career-professional/)<br>
 TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi0VF8)<br>
 
-## EDUCATION
+## EDUCATION & PROFESSIONAL EXPERIENCES
+2022 - Present Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
+Advisor: Prof. [Graham Stone](https://www.ed.ac.uk/profile/graham-stone) <br>
+2020 - 2022 ORISE Postdoctoral Research Scholar, USDA SEL <br>
+Advisor: Dr. [Michael Gates](https://www.ars.usda.gov/people-locations/person/?person-id=36205) <br>
+2018 – 2020	Postdoctoral Research Associate, University of Florida <br>
+Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
 2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
 Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/) <br>
@@ -19,28 +25,19 @@ Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-
 Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/JShorthouse) <br>
 2004 – 2009	B.Sc. Zoology, University of Guelph
 
-## PROFESSIONAL EXPERIENCES
-2022 - Present Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
-Advisor: Prof. [Graham Stone](https://www.ed.ac.uk/profile/graham-stone) <br>
-2020 - 2022 ORISE Postdoctoral Research Scholar, USDA SEL <br>
-Advisor: Dr. [Michael Gates](https://www.ars.usda.gov/people-locations/person/?person-id=36205) <br>
-2018 – 2020	Postdoctoral Research Associate, University of Florida <br>
-Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
-2018	Adjunct Lecturer, University of Central Florida <br>
-2016 – 2018	Instructor of Record, University of Central Florida <br>
-2014 – 2015	Graduate Teaching Assistant, University of Manitoba <br>
-2010 – 2012	Graduate Teaching Assistant, Laurentian University <br>
-
 ## RESEARCH
 I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
 **2024**
 1. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2024). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology**, 49(1): 48–71. [PDF](Pubs/Lackner et al 2024 - Saprininae.pdf) <br>
 2. Ward AKG, **Zhang YM**, Brown GE, Hippee AC, Prior KM, Rollins S, Sierra N, Sheikh SI, Tribull CM, Forbes AA. (2024). Speciation in kleptoparasites of oak gall wasps often correlates with shifts into new tree habitats, tree organs, and gall morphospace. **Evolution**, 78: 174–187. [PDF](Pubs/Ward et al 2024 - Inquilines.pdf) <br>
-3. Sinclair FH, Tang C-T, Bailey RA, Csóka GL, Melika G, Nicholls JA, Nieves-Aldrey J-L, Reiss A, **Zhang YM**, Phillimore A, Schönrogge K, Stone GN. (2024). Phylogenetic and non-phylogenetic patterns in the richness, frequency and composition of links in a herbivore-parasitoid interaction network. **In Review**, Preprint https://doi.org/10.1101/2024.06.30.601383 <br>
+3. Sinclair FH, Tang C-T, Bailey RA, Csóka GL, Melika G, Nicholls JA, Nieves-Aldrey J-L, Reiss A, **Zhang YM**, Phillimore A, Schönrogge K, Stone GN. (2024). Phylogenetic and non-phylogenetic patterns in the richness, frequency and composition of links in a herbivore-parasitoid interaction network. **In Review**, (Preprint)[https://doi.org/10.1101/2024.06.30.601383] <br>
+4. **Zhang YM**, Bossert S, Spasojevic T. (2024). Evolving Perspectives in Hymenoptera Systematics: Bridging Fossils and Genomes Across Time. **Systematic Entomology**, Early View: 1-31. [PDF](Pubs/Zhang et al 2024 - Hymenoptera Review.pdf) <br>
+5. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2024). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. **In Review**. (Preprint)[https://doi.org/10.1101/2024.07.03.601921] <br>
+6. Fang Z, Tang C-T, Sinclair F, Csóka G, Hearn J, McCormack K, Melika G, Mikolajczak KM, Nicholls JA, Nieves-Aldrey J-L, Notton DG, Radosevic S, Bailey RI, Reiss A, **Zhang YM**, Zhu Y, Fang S, Schönrogge K, Stone GN. (2024). Network structure and taxonomic composition of tritrophic communities of Fagaceae, cynipid gallwasps and parasitoids in Sichuan, China. **Insect Conservation and Diversity** Early View: 1–26. [PDF](Pubs/Fang et al 2024 - Sichuan.pdf) <br>
 
 **2023**
-1. Qing X, **Zhang YM** (equal contribution as 1st author), Sun S, Ahmed M, Lo W-S, Bert W, Holovachov O, Li H. (2023). Phylogenomic Insights into the Evolution and Origin of Nematoda. **In Revision**, Preprint: https://doi.org/10.1101/2023.12.13.571554 <br>
+1. Qing X, **Zhang YM** (equal contribution as 1st author), Sun S, Ahmed M, Lo W-S, Bert W, Holovachov O, Li H. (2023). Phylogenomic Insights into the Evolution and Origin of Nematoda. **In Revision**, [Preprint](https://doi.org/10.1101/2023.12.13.571554) <br>
 2. Pujade-Villar J, **Zhang YM**, Buffington ML, Brothers DJ, Lobato-Vila I, Cuesta-Porta V. (2023). On the specific epithet “_vaccinii_” of Ashmead, 1887 and Burks, 1979 (Hymenoptera, Cynipidae). **Journal of Hymenoptera Research**, 96: 955–965. [PDF](Pubs/Pujade-Villar et al 2023 - vaccinii.pdf) <br>
 3. Orr MC, Hughes AC, Torres Carvajal O, Ferrari RR, Luo A, Rajaei H, Ron SR, Warrit N, Zamani A, **Zhang YM**, Zhu C-D. (2023). Inclusive and productive ways forward needed for species-naming conventions. **Nature Ecology & Evolution**, 7: 1168–1169. [PDF](Pubs/Orr et al 2023 - Species Naming.pdf) <br>
 
