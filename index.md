@@ -1,6 +1,6 @@
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
-## MSCA Postdoctoral Fellow, University of Edinburgh
+## ORISE Postdoctoral Fellow, USDA Pacific Basin Agricultural Research Center
  Email: yuanmeng.zhang AT gmail.com<br>
 [Bluesky](https://bsky.app/profile/ymilesz.bsky.social)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
@@ -12,9 +12,11 @@ My interview on [Entomology Today](https://entomologytoday.org/2020/12/21/entomo
 TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi0VF8)<br>
 
 ## EDUCATION & PROFESSIONAL EXPERIENCES
+2025 - Present ORISE Postdoctoral Fellow, USDA Pacific Basin ARC <br>
+Advisor: Dr. [Sheina Sim](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/tropical-pest-genetics-and-molecular-biology-research-unit/people/sheina-sim/) <br> 
 2022 - 2024 Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
 Advisor: Prof. [Graham Stone](https://www.ed.ac.uk/profile/graham-stone) <br>
-2020 - 2022 ORISE Postdoctoral Research Scholar, USDA SEL <br>
+2020 - 2022 ORISE Postdoctoral Fellow, USDA SEL <br>
 Advisor: Dr. [Michael Gates](https://www.ars.usda.gov/people-locations/person/?person-id=36205) <br>
 2018 – 2020	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
@@ -28,18 +30,19 @@ Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/JShorthouse) <br>
 ## RESEARCH
 I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
 
+**2025**
+1. **Zhang YM**, Bossert S, Spasojevic T. (2025). Evolving Perspectives in Hymenoptera Systematics: Bridging Fossils and Genomes Across Time. **Systematic Entomology**, 50(1): 1-31. [PDF](Pubs/Zhang et al 2025 - Hymenoptera Review.pdf) <br>
+2. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2025). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. **Systematic Biology**, syaf001. https://doi.org/10.1093/sysbio/syaf001 <br>
+
 **2024**
 1. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2024). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology**, 49(1): 48–71. [PDF](Pubs/Lackner et al 2024 - Saprininae.pdf) <br>
 2. Ward AKG, **Zhang YM**, Brown GE, Hippee AC, Prior KM, Rollins S, Sierra N, Sheikh SI, Tribull CM, Forbes AA. (2024). Speciation in kleptoparasites of oak gall wasps often correlates with shifts into new tree habitats, tree organs, and gall morphospace. **Evolution**, 78: 174–187. [PDF](Pubs/Ward et al 2024 - Inquilines.pdf) <br>
 3. Sinclair FH, Tang C-T, Bailey RA, Csóka GL, Melika G, Nicholls JA, Nieves-Aldrey J-L, Reiss A, **Zhang YM**, Phillimore A, Schönrogge K, Stone GN. (2024). Phylogenetic and non-phylogenetic patterns in the richness, frequency and composition of links in a herbivore-parasitoid interaction network. The American Naturalist, In Revision, [Preprint](https://doi.org/10.1101/2024.06.30.601383) <br>
-4. **Zhang YM**, Bossert S, Spasojevic T. (2024). Evolving Perspectives in Hymenoptera Systematics: Bridging Fossils and Genomes Across Time. **Systematic Entomology**, Early View: 1-31. [PDF](Pubs/Zhang et al 2024 - Hymenoptera Review.pdf) <br>
-5. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2024). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. Systematic Biology, In Revision. [Preprint](https://doi.org/10.1101/2024.07.03.601921) <br>
-6. Fang Z, Tang C-T, Sinclair F, Csóka G, Hearn J, McCormack K, Melika G, Mikolajczak KM, Nicholls JA, Nieves-Aldrey J-L, Notton DG, Radosevic S, Bailey RI, Reiss A, **Zhang YM**, Zhu Y, Fang S, Schönrogge K, Stone GN. (2024). Network structure and taxonomic composition of tritrophic communities of Fagaceae, cynipid gallwasps and parasitoids in Sichuan, China. **Insect Conservation and Diversity**, 17(6): 1046–1071. [PDF](Pubs/Fang et al 2024 - Sichuan.pdf) <br>
-7. Gibson GAP, Uriel Y, Sherwood J, Abram P, Gariepy TD, **Zhang YM**, Baur H, Gates MW, Franklin MT. (2024). The species of _Pteromalus_ Swederus in America north of Mexico with a 4:4 mandibular formula, and description of a potential biocontrol agent of the introduced pest _Anthonomus rubi_ (Herbst) (Coleoptera: Curculionidae). **Zootaxa**, 5501(2): 201-236. [PDF](Pubs/Gibson et al 2024 - Pteromalus.pdf) <br>
-8. Nastasi LF, Smith CN, Davis, CK, Ward, AKG, Brown G, **Zhang YM**, Rollins S, Friesen C, Tribull CM, Forbes AA, Deans AR. (2024). One must imagine Sisyphus happy: Integrative taxonomic characterization of 22 new _Ceroptres_ species (Hymenoptera: Cynipidae: Ceroptresini). **Zootaxa**, 5508(1): 1–63. [PDF](Pubs/Nastasi et al 2024 - Ceroptres.pdf) <br>
-9. Castillejos-Lemus DE, Nieves-Aldrey JL, **Zhang YM**, Nicholls JA, Medianero E, Rougon-Cardoso A, Stone GN, Oyama K. (2024). Phylogenomic Insights and Geographic Distribution of the New World Genus _Amphibolips_ Reinhard (Hymenoptera: Cynipidae, Cynipini) Using Ultraconserved Elements (UCEs). **Systematic Entomology**, Early View: 1–20. [PDF](Pubs/Castillejos-Lemus et al 2024 - Amphibolips.pdf) <br>
-10. Qing X, **Zhang YM** (equal contribution as 1st author), Sun S, Ahmed M, Lo W-S, Bert W, Holovachov O, Li H. (2024). Phylogenomic Insights into the Evolution and Origin of Nematoda. **Systematic Biology**, In Press, [Preprint](https://doi.org/10.1101/2023.12.13.571554) <br>
-
+4. Fang Z, Tang C-T, Sinclair F, Csóka G, Hearn J, McCormack K, Melika G, Mikolajczak KM, Nicholls JA, Nieves-Aldrey J-L, Notton DG, Radosevic S, Bailey RI, Reiss A, **Zhang YM**, Zhu Y, Fang S, Schönrogge K, Stone GN. (2024). Network structure and taxonomic composition of tritrophic communities of Fagaceae, cynipid gallwasps and parasitoids in Sichuan, China. **Insect Conservation and Diversity**, 17(6): 1046–1071. [PDF](Pubs/Fang et al 2024 - Sichuan.pdf) <br>
+5. Gibson GAP, Uriel Y, Sherwood J, Abram P, Gariepy TD, **Zhang YM**, Baur H, Gates MW, Franklin MT. (2024). The species of _Pteromalus_ Swederus in America north of Mexico with a 4:4 mandibular formula, and description of a potential biocontrol agent of the introduced pest _Anthonomus rubi_ (Herbst) (Coleoptera: Curculionidae). **Zootaxa**, 5501(2): 201-236. [PDF](Pubs/Gibson et al 2024 - Pteromalus.pdf) <br>
+6. Nastasi LF, Smith CN, Davis, CK, Ward, AKG, Brown G, **Zhang YM**, Rollins S, Friesen C, Tribull CM, Forbes AA, Deans AR. (2024). One must imagine Sisyphus happy: Integrative taxonomic characterization of 22 new _Ceroptres_ species (Hymenoptera: Cynipidae: Ceroptresini). **Zootaxa**, 5508(1): 1–63. [PDF](Pubs/Nastasi et al 2024 - Ceroptres.pdf) <br>
+7. Castillejos-Lemus DE, Nieves-Aldrey JL, **Zhang YM**, Nicholls JA, Medianero E, Rougon-Cardoso A, Stone GN, Oyama K. (2024). Phylogenomic Insights and Geographic Distribution of the New World Genus _Amphibolips_ Reinhard (Hymenoptera: Cynipidae, Cynipini) Using Ultraconserved Elements (UCEs). **Systematic Entomology**, Early View: 1–20. [PDF](Pubs/Castillejos-Lemus et al 2024 - Amphibolips.pdf) <br>
+8. Qing X, **Zhang YM** (equal contribution as 1st author), Sun S, Ahmed M, Lo W-S, Bert W, Holovachov O, Li H. (2024). Phylogenomic Insights into the Evolution and Origin of Nematoda. **Systematic Biology**, syae073. https://doi.org/10.1093/sysbio/syae073 <br>
 
 **2023**
 1. Pujade-Villar J, **Zhang YM**, Buffington ML, Brothers DJ, Lobato-Vila I, Cuesta-Porta V. (2023). On the specific epithet “_vaccinii_” of Ashmead, 1887 and Burks, 1979 (Hymenoptera, Cynipidae). **Journal of Hymenoptera Research**, 96: 955–965. [PDF](Pubs/Pujade-Villar et al 2023 - vaccinii.pdf) <br>
