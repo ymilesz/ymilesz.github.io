@@ -12,7 +12,7 @@ My interview on [Entomology Today](https://entomologytoday.org/2020/12/21/entomo
 TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi0VF8)<br>
 
 ## EDUCATION & PROFESSIONAL EXPERIENCES
-2025 - Present ORISE Postdoctoral Fellow, USDA Pacific Basin ARC <br>
+2025 - Present ORISE Postdoctoral Fellow, USDA PBARC <br>
 Advisor: Dr. [Sheina Sim](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/tropical-pest-genetics-and-molecular-biology-research-unit/people/sheina-sim/) <br> 
 2022 - 2024 Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
 Advisor: Prof. [Graham Stone](https://www.ed.ac.uk/profile/graham-stone) <br>
@@ -33,6 +33,7 @@ I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in 
 **2025**
 1. **Zhang YM**, Bossert S, Spasojevic T. (2025). Evolving Perspectives in Hymenoptera Systematics: Bridging Fossils and Genomes Across Time. **Systematic Entomology**, 50(1): 1-31. [PDF](Pubs/Zhang et al 2025 - Hymenoptera Review.pdf) <br>
 2. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2025). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. **Systematic Biology**, syaf001. https://doi.org/10.1093/sysbio/syaf001 <br>
+3. **Zhang YM**, Delvare G, Blaimer BB, Cruaud A, Rasplus J-Y, Brady SG, Gates MW. (2025). Phasing in and out of phytophagy: phylogeny and evolution of the family Eurytomidae (Hymenoptera: Chalcidoidea) based on Ultraconserved Elements. Preprint: https://doi.org/10.1101/2025.01.29.635542 <br>
 
 **2024**
 1. Lackner T, **Zhang YM**, Kindler C, Motyka M, Balke M. (2024). Saprininae: phylogeny, biogeography and a new classification of the subfamily (Coleoptera: Histeridae). **Systematic Entomology**, 49(1): 48–71. [PDF](Pubs/Lackner et al 2024 - Saprininae.pdf) <br>
