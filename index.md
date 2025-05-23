@@ -11,15 +11,19 @@ I am an evolutionary biologist specializing in the diversity and evolution of pa
 My interview on [Entomology Today](https://entomologytoday.org/2020/12/21/entomologist-academic-probation-smithsonian-yuanmeng-miles-zhang-standout-early-career-professional/)<br>
 TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi0VF8)<br>
 
-## EDUCATION & PROFESSIONAL EXPERIENCES
+## PROFESSIONAL EXPERIENCE
 2025 - Present ORISE Postdoctoral Fellow, USDA PBARC <br>
 Advisor: Dr. [Sheina Sim](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/tropical-pest-genetics-and-molecular-biology-research-unit/people/sheina-sim/) <br> 
+2024 Visiting Scientist, Sichuan University, China <br>
+Host: Prof. [Kangshan Mao](http://meetlab.cn/) <br>
 2022 - 2024 Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
 Advisor: Prof. [Graham Stone](https://www.ed.ac.uk/profile/graham-stone) <br>
 2020 - 2022 ORISE Postdoctoral Fellow, USDA SEL <br>
 Advisor: Dr. [Michael Gates](https://www.ars.usda.gov/people-locations/person/?person-id=36205) <br>
 2018 – 2020	Postdoctoral Research Associate, University of Florida <br>
 Advisor: Dr. [Andrea Lucky](http://www.andrealucky.com/) <br>
+
+## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
 2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
 Advisor: Dr. [Barbara Sharanowski](https://sciences.ucf.edu/biology/sharanowski-lab/) <br>
@@ -28,11 +32,11 @@ Advisor: Dr. [Joseph Shorthouse](https://laurentian.ca/faculty/JShorthouse) <br>
 2004 – 2009	B.Sc. Zoology, University of Guelph
 
 ## RESEARCH
-I mostly work with systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, and nematodes.
+I am interested in the systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, flies, and nematodes.
 
 **2025**
 1. **Zhang YM**, Bossert S, Spasojevic T. (2025). Evolving Perspectives in Hymenoptera Systematics: Bridging Fossils and Genomes Across Time. **Systematic Entomology**, 50(1): 1-31. [PDF](Pubs/Zhang et al 2025 - Hymenoptera Review.pdf) <br>
-2. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2025). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. **Systematic Biology**, syaf001. [Early View](https://doi.org/10.1093/sysbio/syaf001) <br>
+2. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2025). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. **Systematic Biology**, syaf001. [PDF](Pubs/Borowiec et al 2025 - Ant UCE.pdf) <br>
 3. Castillejos-Lemus DE, Nieves-Aldrey JL, **Zhang YM**, Nicholls JA, Medianero E, Rougon-Cardoso A, Stone GN, Oyama K. (2025). Phylogenomic Insights and Geographic Distribution of the New World Genus _Amphibolips_ Reinhard (Hymenoptera: Cynipidae, Cynipini) Using Ultraconserved Elements (UCEs). **Systematic Entomology**, 50(2): 349–368. [PDF](Pubs/Castillejos-Lemus et al 2025 - Amphibolips.pdf) <br>
 5. Sinclair FH, Tang C-T, Bailey RA, Csóka GL, Melika G, Nicholls JA, Nieves-Aldrey J-L, Reiss A, **Zhang YM**, Phillimore A, Schönrogge K, Stone GN. (2025). Quantifying phylogenetic and nonphylogenetic patterns in the richness, frequency, and identity of links in a herbivore-parasitoid interaction network. **The American Naturalist**, [Early View](https://doi.org/10.1086/735854) <br>
 6. Gates MW, Delvare, G, **Zhang YM** (2025). Eurytomidae. In: **Chalcidoidea of the World**. Edited by: Heraty JM, Woolley JB, CABI Press, Oxford, UK. Chapter 30, pp 397–414. [PDF](Pubs/Gates et al 2025 - Eurytomidae.pdf) <br>
