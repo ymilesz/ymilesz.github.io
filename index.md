@@ -34,6 +34,9 @@ Advisor: Dr. Joseph Shorthouse <br>
 ## RESEARCH
 I am interested in the systematics, phylogenomics, and evolution of Hymenoptera, in particular gall wasps and their associated parasitoids. I also dabble in similar topics using a variety of organisms such as ants, beetles, flies, and nematodes.
 
+**2026**
+1. Sharkey MJ, Shaw SR, van Achterberg C, **Zhang YM**, Quicke DJ, Stigenberg J. (2026). Key to the new World genera of Euphorinae (Hymenoptera: Ichneumonoidea: Braconidae) and synopses of the genera. **Canadian Journal of Arthropod Identification**, 58. [PDF](Pubs/Sharkey et al 2026 - Euphorinae.pdf) <br>
+
 **2025**
 1. **Zhang YM**, Bossert S, Spasojevic T. (2025). Evolving perspectives in Hymenoptera systematics: bridging fossils and genomes across time. **Systematic Entomology**, 50(1): 1-31. [PDF](Pubs/Zhang et al 2025 - Hymenoptera Review.pdf) <br>
 2. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2025). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. **Systematic Biology**, 74(5): 700–722. [PDF](Pubs/Borowiec et al 2025 - Ant UCE.pdf) <br>
