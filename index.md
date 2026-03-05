@@ -37,6 +37,8 @@ I am interested in the systematics, phylogenomics, and evolution of Hymenoptera,
 **2026**
 1. Sharkey MJ, Shaw SR, van Achterberg C, **Zhang YM**, Quicke DJ, Stigenberg J. (2026). Key to the new World genera of Euphorinae (Hymenoptera: Ichneumonoidea: Braconidae) and synopses of the genera. **Canadian Journal of Arthropod Identification**, 58. [PDF](Pubs/Sharkey et al 2026 - Euphorinae.pdf) <br>
 2. **Zhang YM**, Merondun J, Corpuz RL, Kauwe AN, Geib SM, Sim SB (2026). Chromosome-level genome assembly of the Erythrina Gall Wasp, _Quadrastichus erythrinae_ (Hymenoptera: Eulophidae). **BioRxiv** [PDF](Pubs/Zhang et al 2026 - Quadrastichus erythrinae.pdf) <br>
+3. Zaldívar-Riverón A, Fernández-Flores SR, Castañeda-Osorio R, Solis-de la Rosa J, Egan SP, Salinas-Ramos VB, **Zhang YM**. (2026). Integrative systematics of a new species of the gall wasp genus _Belonocnema_ Mayr (Cynipidae: Cynipini) on the Mesoamerican live oak _Quercus oleoides_ (Fagaceae) and its associated hymenopteran community. **Journal of Hymenoptera Research**, 99: 77–99. [PDF](Pubs/Zaldivar-Riveron et al 2026 - Belonocnema mesoamericana.pdf) <br>
+
 **2025**
 1. **Zhang YM**, Bossert S, Spasojevic T. (2025). Evolving perspectives in Hymenoptera systematics: bridging fossils and genomes across time. **Systematic Entomology**, 50(1): 1-31. [PDF](Pubs/Zhang et al 2025 - Hymenoptera Review.pdf) <br>
 2. Borowiec ML, **Zhang YM**, Neves K, Ramalho MO, Fisher BL, Lucky A, Moreau CS. (2025). Evaluating UCE data adequacy and integrating uncertainty in a comprehensive phylogeny of the ants. **Systematic Biology**, 74(5): 700–722. [PDF](Pubs/Borowiec et al 2025 - Ant UCE.pdf) <br>
