@@ -1,6 +1,6 @@
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
-## ORISE Postdoctoral Fellow, USDA Pacific Basin Agricultural Research Center
+## Research Associate, Smithsonian National Museum of Natural History
  Email: yuanmeng.zhang AT gmail.com<br>
 [Bluesky](https://bsky.app/profile/ymilesz.bsky.social)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
@@ -12,10 +12,8 @@ My interview on [Entomology Today](https://entomologytoday.org/2020/12/21/entomo
 TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi0VF8)<br>
 
 ## PROFESSIONAL EXPERIENCE
-2025 - Present ORISE Postdoctoral Fellow, USDA PBARC <br>
+2025 - 2026 ORISE Postdoctoral Fellow, USDA PBARC <br>
 Advisor: Dr. Sheina Sim <br> 
-2024 Visiting Scientist, Sichuan University, China <br>
-Host: Prof. Kangshan Mao <br>
 2022 - 2024 Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
 Advisor: Prof. Graham Stone <br>
 2020 - 2022 ORISE Postdoctoral Fellow, USDA SEL <br>
@@ -36,12 +34,12 @@ I am interested in the systematics, phylogenomics, and evolution of Hymenoptera,
 
 **2026**
 1. Sharkey MJ, Shaw SR, van Achterberg C, **Zhang YM**, Quicke DJ, Stigenberg J. (2026). Key to the new World genera of Euphorinae (Hymenoptera: Ichneumonoidea: Braconidae) and synopses of the genera. **Canadian Journal of Arthropod Identification**, 58. [PDF](Pubs/Sharkey et al 2026 - Euphorinae.pdf) <br>
-2. **Zhang YM**, Merondun J, Corpuz RL, Kauwe AN, Geib SM, Sim SB (2026). Chromosome-level genome assembly of the Erythrina Gall Wasp, _Quadrastichus erythrinae_ (Hymenoptera: Eulophidae). **G3 Genes Genomes Genetics**, jkag105. [PDF](Pubs/Zhang et al 2026 - Quadrastichus erythrinae.pdf) <br>
+2. **Zhang YM**, Merondun J, Corpuz RL, Kauwe AN, Geib SM, Sim SB (2026). Chromosome-level genome assembly of the Erythrina Gall Wasp, _Quadrastichus erythrinae_ (Hymenoptera: Eulophidae). **G3 Genes Genomes Genetics**, 16(7): jkag105. [PDF](Pubs/Zhang et al 2026 - Quadrastichus erythrinae.pdf) <br>
 3. Zaldívar-Riverón A, Fernández-Flores SR, Castañeda-Osorio R, Solis-de la Rosa J, Egan SP, Salinas-Ramos VB, **Zhang YM**. (2026). Integrative systematics of a new species of the gall wasp genus _Belonocnema_ Mayr (Cynipidae: Cynipini) on the Mesoamerican live oak _Quercus oleoides_ (Fagaceae) and its associated hymenopteran community. **Journal of Hymenoptera Research**, 99: 77–99. [PDF](Pubs/Zaldivar-Riveron et al 2026 - Belonocnema mesoamericana.pdf) <br>
 4. Castillejos-Lemus DE, Oyama K, **Zhang YM**, Valencia S, Nieves-Aldrey JL. (2026). Five new _Amphibolips_ Reinhard, 1865 (Hymenoptera, Cynipidae) species from western and southern Mexico, expanding the diversity of oak gall wasps and revealing the largest oak apple gall in the Americas. **Zootaxa**, 5785 (1): 1–43. [PDF](Pubs/Castillejos-Lemus et al 2026 - Mexican Amphibolips.pdf) <br>
 5. Lee S, Bai M, Zhu CD, Lee S, **Zhang YM**, Mosyakin SL, Vogler AP, Orr M. (2026). Rethink Changing ‘Unethical Names’ in Taxonomy: An Asian Perspective. **Bioscience**, 76(4): 323–326. [PDF](Pubs/Lee et al 2026 - Rethinking Changing Unethical Names in Taxonomy.pdf) <br>
 6. Magnacca KN, **Zhang YM** (2026). New species of chalcidoid wasps associated with stem galls of _Ficus_ _microcarpa_ in Hawaiʻi. **Proceedings of the Hawaiian Entomological Society**, 58: 17-28. [PDF](Pubs/Magnacca & Zhang 2026 - Josephiella.pdf) <br>
-7. Weinrich CL, Bubeníková K, Sheikh SI, Steffensen MJ, Ward AKG, **Zhang YM**, Forbes AA. (2026). Unsupervised machine learning for species discovery in _Eurytoma_ and _Phylloxeroxenus_ (Hymenoptera: Eurytomidae) parasitoids of oak gall wasps. *Insect Systematics and Diversity*, 10(3): ixag021. [PDF](Pubs/Weinrich et al 2026 - UML Eurytomidae.pdf) <br>
+7. Weinrich CL, Bubeníková K, Sheikh SI, Steffensen MJ, Ward AKG, **Zhang YM**, Forbes AA. (2026). Unsupervised machine learning for species discovery in _Eurytoma_ and _Phylloxeroxenus_ (Hymenoptera: Eurytomidae) parasitoids of oak gall wasps. **Insect Systematics and Diversity**, 10(3): ixag021. [PDF](Pubs/Weinrich et al 2026 - UML Eurytomidae.pdf) <br>
 
 **2025**
 1. **Zhang YM**, Bossert S, Spasojevic T. (2025). Evolving perspectives in Hymenoptera systematics: bridging fossils and genomes across time. **Systematic Entomology**, 50(1): 1-31. [PDF](Pubs/Zhang et al 2025 - Hymenoptera Review.pdf) <br>
