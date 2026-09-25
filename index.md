@@ -1,7 +1,7 @@
 ![](Photos/Miles_Photo.jpg)
 # Y. Miles Zhang, PhD
 ## Research Associate, Smithsonian National Museum of Natural History
- Email: yuanmeng.zhang AT gmail.com<br>
+ Email: yuanmeng.zhang AT gmail DOT com<br>
 [Bluesky](https://bsky.app/profile/ymilesz.bsky.social)<br>
 [ResearchGate](https://www.researchgate.net/profile/Yuanmeng_Zhang)<br>
 [GoogleScholar](https://scholar.google.com/citations?user=kUZTyoQAAAAJ&hl=en)<br>
@@ -13,20 +13,14 @@ TED-Ed Lesson on [The bizarre world of parasitic wasps](https://youtu.be/xqaX2yi
 
 ## PROFESSIONAL EXPERIENCE
 2025 - 2026 ORISE Postdoctoral Fellow, USDA PBARC <br>
-Advisor: Dr. Sheina Sim <br> 
 2022 - 2024 Marie Skłodowska-Curie Actions Postdoctoral Fellow, University of Edinburgh <br>
-Advisor: Prof. Graham Stone <br>
 2020 - 2022 ORISE Postdoctoral Fellow, USDA SEL <br>
-Advisor: Dr. Michael Gates <br>
 2018 – 2020	Postdoctoral Research Associate, University of Florida <br>
-Advisor: Dr. Andrea Lucky <br>
 
 ## EDUCATION
 2016 – 2018	Ph.D. Biology, University of Central Florida <br>
-2013 – 2015	Ph.D. Entomology University of Manitoba (transferred with advisor) <br>
-Advisor: Prof. Barbara Sharanowski <br>
+2013 – 2015	Ph.D. Entomology University of Manitoba (moved with advisor to UCF) <br>
 2009 – 2012	M.Sc. Biology, Laurentian University <br>
-Advisor: Dr. Joseph Shorthouse <br>
 2004 – 2009	B.Sc. Zoology, University of Guelph <br>
 
 ## RESEARCH
@@ -40,6 +34,7 @@ I am interested in the systematics, phylogenomics, and evolution of Hymenoptera,
 5. Lee S, Bai M, Zhu CD, Lee S, **Zhang YM**, Mosyakin SL, Vogler AP, Orr M. (2026). Rethink Changing ‘Unethical Names’ in Taxonomy: An Asian Perspective. **Bioscience**, 76(4): 323–326. [PDF](Pubs/Lee et al 2026 - Rethinking Changing Unethical Names in Taxonomy.pdf) <br>
 6. Magnacca KN, **Zhang YM** (2026). New species of chalcidoid wasps associated with stem galls of _Ficus_ _microcarpa_ in Hawaiʻi. **Proceedings of the Hawaiian Entomological Society**, 58: 17-28. [PDF](Pubs/Magnacca & Zhang 2026 - Josephiella.pdf) <br>
 7. Weinrich CL, Bubeníková K, Sheikh SI, Steffensen MJ, Ward AKG, **Zhang YM**, Forbes AA. (2026). Unsupervised machine learning for species discovery in _Eurytoma_ and _Phylloxeroxenus_ (Hymenoptera: Eurytomidae) parasitoids of oak gall wasps. **Insect Systematics and Diversity**, 10(3): ixag021. [PDF](Pubs/Weinrich et al 2026 - UML Eurytomidae.pdf) <br>
+8. Li Z, **Zhang YM**, Liu Z, Luo S, Chen H. (2026). First record of Aximopsis s.l. (Hymenoptera: Eurytomidae) from China, with description of a new species parasitizing the larvae of the coastal pollinator Ceratina smaragdula (Hymenoptera: Apidae). **Biodiversity Data Journal**, 14: e206796. [PDF](Pubs/Li et al 2026 - Aximopsis qiong.pdf) <br>
 
 **2025**
 1. **Zhang YM**, Bossert S, Spasojevic T. (2025). Evolving perspectives in Hymenoptera systematics: bridging fossils and genomes across time. **Systematic Entomology**, 50(1): 1-31. [PDF](Pubs/Zhang et al 2025 - Hymenoptera Review.pdf) <br>
